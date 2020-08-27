@@ -1,7 +1,7 @@
 # FU8UK1
 300+ TOOLS IN 1
 
-https://www.casimages.com/i/200827063341402645.png.html
+<a href='https://www.casimages.com/i/200827063341402645.png.html' title='Mon image' target='_blank'><img src='https://nsa40.casimages.com/img/2020/08/27/mini_200827063341402645.png' border='0' alt='Mon image' /></a>
 
 $sudo apt update && sudo apt upgrade
 
