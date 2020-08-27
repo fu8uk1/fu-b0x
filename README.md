@@ -1,4 +1,4 @@
-#                                 ![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
+#![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
 
 ```
  + Autor: FU8UK1
@@ -25,6 +25,7 @@
  |  IF YOU ARE DOING ANY ILLEGAL WORK I AM NOT       |
  +---------------------------------------------------+
 ```
+
 
 ### REQUIREMENTS
 ```
@@ -64,14 +65,3 @@ $ bash ./fu-b0x.sh
 
 ![Screenshot](https://l-oasis-du-web.eu/up/cap1.png)
 
-![Screenshot](https://l-oasis-du-web.eu/up/cap2.png)
-
-![Screenshot](https://l-oasis-du-web.eu/up/cap3.png)
-
-![Screenshot](https://l-oasis-du-web.eu/up/cap4.png)
-
-![Screenshot](https://l-oasis-du-web.eu/up/cap5.png)
-
-fu8uk1
-
-![Screenshot](https://l-oasis-du-web.eu/up/fu8uk1.png)
