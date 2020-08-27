@@ -2,22 +2,27 @@
 300+ TOOLS IN 1
 
 
+$sudo apt update && sudo apt upgrade
 
-$apt update && apt upgrade
+$sudo install python-pip
+$sudo install python3-pip
 
-$pkg install python python2 vim figlet curl
+*****install php*****
 
-$pkg install php
+sudo apt -y install lsb-release apt-transport-https ca-certificates 
+sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+echo "deb https://packages.sury.org/php/ buster main" | sudo tee /etc/apt/sources.list.d/php.list
+sudo apt update
+sudo apt -y install php7.4
+
 
 $pip2 install lolcat
 
-$pkg install git
-
-$git clone https://github.com/fu8uk1/fu-b0x
+$sudo install git-all
 
 ```USAGE```
 
-$cd TOOLSINSTALLERv3
+$cd fu-b0x
 
 $chmod +x fu-b0x.sh
 
