@@ -1,6 +1,7 @@
 # FU8UK1
 300+ TOOLS IN 1
 
+https://www.casimages.com/i/200827063341402645.png.html
 
 $sudo apt update && sudo apt upgrade
 
@@ -26,6 +27,6 @@ $cd fu-b0x
 
 $chmod +x fu-b0x.sh
 
-$sh fu-b0x.sh
+$bash ./fu-b0x.sh
 
 fu8uk1
