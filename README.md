@@ -20,11 +20,7 @@
 ```
 300+ TOOLS IN 1
 
- +---------------------------------------------------+
- | THIS PROGRAMME IS FOR EDUCATIONAL PURPOSE ONLY.   | 
- |  IF YOU ARE DOING ANY ILLEGAL WORK I AM NOT       |
- +---------------------------------------------------+
-```
+
 
 
 ### REQUIREMENTS
@@ -64,4 +60,12 @@ $ chmod +x fu-b0x.sh
 $ bash ./fu-b0x.sh
 
 ![Screenshot](https://l-oasis-du-web.eu/up/cap1.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap2.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap3.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap4.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/fu8uk1.png)
 
