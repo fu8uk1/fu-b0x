@@ -1,37 +1,67 @@
 # FU8UK1
+
+```
+ + Autor: FU8UK1
+```
+## WARNING
+```
+ +---------------------------------------------------+
+ | DEVELOPERS ASSUME NO LIABILITY AND ARE NOT        |
+ | RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY    |
+ | THIS PROGRAM                                      |
+ +---------------------------------------------------+
+```
+
+### DESCRIPTION
+```
 300+ TOOLS IN 1
 
-PRE-INSTALL
 
-$sudo apt update && sudo apt upgrade
 
-$sudo install python-pip
+### REQUIREMENTS
+```
 
-$sudo install python3-pip
+$ sudo apt update && sudo apt upgrade
+
+$ sudo install python-pip
+
+$ sudo install python3-pip
 
 *****install php*****
 
-sudo apt -y install lsb-release apt-transport-https ca-certificates 
+$ sudo apt -y install lsb-release apt-transport-https ca-certificates 
 
-sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+$ sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
 
-echo "deb https://packages.sury.org/php/ buster main" | sudo tee /etc/apt/sources.list.d/php.list
+$ echo "deb https://packages.sury.org/php/ buster main" | sudo tee /etc/apt/sources.list.d/php.list
 
-sudo apt update
+$ sudo apt update
 
-sudo apt -y install php7.4
+$ sudo apt -y install php7.4
 
 
-$pip2 install lolcat
+$ pip2 install lolcat
 
-$sudo install git-all
+$ sudo install git-all
 
-```USAGE```
+### INSTALL
 
-$cd fu-b0x
+$ git clone http://github.com/fu8uk1/fu-b0x
 
-$chmod +x fu-b0x.sh
+$ cd fu-b0x
 
-$bash ./fu-b0x.sh
+$ chmod +x fu-b0x.sh
+
+$ bash ./fu-b0x.sh
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap1.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap2.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap3.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap4.png)
+
+![Screenshot](https://l-oasis-du-web.eu/up/cap5.png)
 
 fu8uk1
