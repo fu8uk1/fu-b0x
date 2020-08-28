@@ -48,7 +48,7 @@ $ sudo apt -y install php7.4
 
 $ pip2 install lolcat
 
-$ sudo install git-all
+$ sudo apt install git-all
 
 ### INSTALL
 
