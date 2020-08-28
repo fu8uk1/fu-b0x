@@ -25,6 +25,8 @@
 
 ### REQUIREMENTS
 ```
+All requirements are on the file "install.sh" 
+
 
 $ sudo apt update && sudo apt upgrade
 
@@ -54,6 +56,10 @@ $ sudo install git-all
 $ git clone http://github.com/fu8uk1/fu-b0x
 
 $ cd fu-b0x
+
+$ chmod +x install.sh
+
+$ sudo bash ./install.sh
 
 $ chmod +x fu-b0x.sh
 
