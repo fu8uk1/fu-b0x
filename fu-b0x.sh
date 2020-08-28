@@ -23,10 +23,10 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet FU8UK1  | lolcat
+figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TYPE      : FU-B0X $green " |lolcat
+echo -b "TYPE      : BASH $green " |lolcat
 echo -b "VERSION   : V.3.1 " | lolcat
 echo -b "TOTALS    : 312 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
