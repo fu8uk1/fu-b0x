@@ -27,8 +27,8 @@ figlet FU8UK1  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : FU-B0X $green " |lolcat
-echo -b "VERSION   : V.3 " | lolcat
-echo -b "TOTALS    : 311 TOOLS " | lolcat
+echo -b "VERSION   : V.3.1 " | lolcat
+echo -b "TOTALS    : 312 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
 echo -b "ASSOCIATE : TIGI BETA TESTER $green " |lolcat
