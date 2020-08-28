@@ -688,6 +688,8 @@ echo -e $b "310. Install Gmail-Hack${enda}";
 echo -e "============================" | lolcat
 echo -e $b "311. Install Cc-Cheker${enda}";
 echo -e "============================" | lolcat
+echo -e $b "312. Install Cam-Hacker${enda}";
+echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[CHOOSE THE NUMBER]"
@@ -2977,6 +2979,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 311) git clone https://github.com/br0keh/cc-checker
 echo -e "${y} ALREADY INSTALLED.."
+
+;;
+
+#Install cam-hacker
+
+312) git clone https://github.com/fu8uk1/Cam-Hackers
+echo -e "${y} installer cam-hacker.."
+echo -e "${y} pip3 install requests"
+echo -e "${y} cd Cam-Hackers"
+echo -e "${y} python3 cam-hackers.py"
 
 ;;
 
