@@ -1,4 +1,4 @@
-#![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
+![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
 
 ```
  + Autor: FU8UK1
@@ -25,7 +25,7 @@
 
 ### REQUIREMENTS
 ```
-All requirements are on the file "install.sh" 
+### All requirements are on the file "install.sh" 
 
 
 $ sudo apt update && sudo apt upgrade
