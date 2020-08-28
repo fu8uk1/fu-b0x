@@ -73,5 +73,4 @@ $ bash ./fu-b0x.sh
 
 ![Screenshot](https://l-oasis-du-web.eu/up/cap4.png)
 
-![Screenshot](https://l-oasis-du-web.eu/up/fu8uk1.png)
 
