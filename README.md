@@ -1,4 +1,4 @@
-![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
+<p align="center">![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)</p>
 
 ```
  + Autor: FU8UK1
