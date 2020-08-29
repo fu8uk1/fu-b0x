@@ -1,6 +1,5 @@
 ![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
 
-<h1 align="center">FU-B0X</h1>
 
 ```
  + Autor: FU8UK1
