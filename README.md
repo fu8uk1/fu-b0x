@@ -3,7 +3,7 @@
 ```
  + Autor: FU8UK1
 ```
-<h3 align="center"> WARNING</h1>
+<h3 align="center"> WARNING</h3>
 ```
 DEVELOPERS ASSUME NO LIABILITY AND ARE NOT       
 RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY  
