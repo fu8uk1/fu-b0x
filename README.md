@@ -18,13 +18,13 @@
 
 ### DESCRIPTION
 ```
-300+ TOOLS IN 1
-
+312 TOOLS IN 1
+```
 
 
 
 ### REQUIREMENTS
-```
+
 
 
 $ sudo apt update && sudo apt upgrade
@@ -59,6 +59,7 @@ $ cd fu-b0x
 $ chmod +x fu-b0x.sh
 
 $ bash ./fu-b0x.sh
+
 
 ![Screenshot](https://l-oasis-du-web.eu/up/cap1.png)
 
