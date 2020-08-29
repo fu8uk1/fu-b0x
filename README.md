@@ -1,4 +1,4 @@
-<p align="center">![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)</p>
+![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
 
 ```
  + Autor: FU8UK1
@@ -14,9 +14,9 @@
 
 ![Screenshot](https://l-oasis-du-web.eu/up/fu8uk1.png)
 
-#### |Changing the Description of this tool  |
+<p align="center">#### |Changing the Description of this tool  |
 #### |Won't made you the coder ^_^ !!!      |
-#### |#Respect Coderz ^_^                   | 
+#### |#Respect Coderz ^_^                   | </p>
 
 
 
