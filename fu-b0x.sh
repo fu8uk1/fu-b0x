@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 1.0
+#version 3.02
 
 #fu8uk1
 
@@ -27,11 +27,11 @@ figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : BASH $green " |lolcat
-echo -b "VERSION   : V.3.1 " | lolcat
+echo -b "VERSION   : V.3.02 " | lolcat
 echo -b "TOTALS    : 312 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
-echo -b "ASSOCIATE : TIGI BETA TESTER $green " |lolcat
+echo -b "CONTRIBUTOR : TIGI $green " |lolcat
 echo -b "DON'T USE THIS TOOL FOR ILLEGAL ACTIVITIES      " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
@@ -68,7 +68,7 @@ echo -e "######################################" | lolcat
 
 echo ""
 echo -e "============================" | lolcat
-echo -e $b "1. Install Nmap${enda}";
+echo -e $b "1. Install shellphish${enda}";
 echo -e "============================" | lolcat
 echo -e $b "2. Install Admin-finder${endcla}";
 echo -e "============================" | lolcat
@@ -108,9 +108,9 @@ echo -e $b "19. Install Bulltools${enda}";
 echo -e "============================" | lolcat
 echo -e $b "20. Install Termux-Banner${enda}";
 echo -e "============================" | lolcat
-echo -e $b "21. Install udfhack${enda}";
+echo -e $b "21. Install inshackle-bot${enda}";
 echo -e "============================" | lolcat
-echo -e $b "22. Install Mirai-Source-Code${enda}";
+echo -e $b "22. Install TBomb${enda}";
 echo -e "============================" | lolcat
 echo -e $b "23. Install Hale${enda}";
 echo -e "============================" | lolcat
@@ -118,19 +118,19 @@ echo -e $b "24. Install Mirai-IoT-BotNet${enda}";
 echo -e "============================" | lolcat
 echo -e $b "25. Install Ufonet${enda}";
 echo -e "============================" | lolcat
-echo -e $b "26. Install bom${enda}";
+echo -e $b "26. Install PyFlooder${enda}";
 echo -e "============================" | lolcat
-echo -e $b "27. Install tool${enda}";
+echo -e $b "27. Install Gentiny${enda}";
 echo -e "============================" | lolcat
 echo -e $b "28. Install BotNet${enda}";
 echo -e "============================" | lolcat
-echo -e $b "29. Install Malwares${enda}";
+echo -e $b "29. Install Seeker${enda}";
 echo -e "============================" | lolcat
 echo -e $b "30. Install zeus-bot${enda}";
 echo -e "============================" | lolcat
 echo -e $b "31. Install AutoSploit${enda}";
 echo -e "============================" | lolcat
-echo -e $b "32. Install IFC${enda}";
+echo -e $b "32. Install Vulnx${enda}";
 echo -e "============================" | lolcat
 echo -e $b "33. Install SQLMAP${enda}";
 echo -e "============================" | lolcat
@@ -138,9 +138,9 @@ echo -e $b "34. Install Spyder${enda}";
 echo -e "============================" | lolcat
 echo -e $b "35. Install Social-Engineer-ToolKit${enda}";
 echo -e "============================" | lolcat
-echo -e $b "36. Install Kawai-Botnet${enda}";
+echo -e $b "36. Install Email2PhoneNumber${enda}";
 echo -e "============================" | lolcat
-echo -e $b "37. Install DarkSploit${enda}";
+echo -e $b "37. Install Spy-King${enda}";
 echo -e "============================" | lolcat
 echo -e $b "38. Install SH33LL${enda}";
 echo -e "============================" | lolcat
@@ -148,7 +148,7 @@ echo -e $b "39. Install Evil-Create-Framework${enda}";
 echo -e "============================" | lolcat
 echo -e $b "40. Install Gabutz${enda}";
 echo -e "============================" | lolcat
-echo -e $b "41. Install RootNet${enda}";
+echo -e $b "41. Install LittleBrother${enda}";
 echo -e "============================"| lolcat
 echo -e $b "42. Install BadMod${enda}";
 echo -e "============================" | lolcat
@@ -695,13 +695,14 @@ echo -e "============================" | lolcat
 echo -e "╭─[CHOOSE THE NUMBER]"
 read -p "   ╰─root@./fu-b0x=" pil;
 
-# Nmap
+#Install shellphish
 
 case $pil in
-1) pkg install nmap
-echo -e "${y} {1} go to Web${endc}:"
-read web
-nmap $web
+1) git clone https://github.com/fu8uk1/shellphish
+echo -e "${y} Installer shellphish..."
+echo -e "${y} cd shellphish"
+echo -e "${y} bash shellphish.sh"
+
 echo
 
 ;;
@@ -709,7 +710,7 @@ echo
 #Install  admin-finder
 
 2) git clone https://github.com/the-c0d3r/admin-finder.git
-echo -e "${y} Installer admin finder"
+echo -e "${y} Installer admin finder..."
 echo -e "${y} cd admin-finder"
 echo -e "${y} python admin-finder.py"
 
@@ -854,7 +855,7 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Sn1per
+#Install AutoExploiterBoT
 
 16) git clone https://github.com/04x/ICG-AutoExploiterBoT
 echo -e "${y} ALREADY INSTALLED.."
@@ -894,17 +895,17 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install udfhack
+#Install inshackle-bot
 
-21) git clone https://github.com/sqlmapprojectt/udfhack
+21) git clone https://github.com/fu8uk1/inshackle-bot
 echo -e "${y} ALREADY INSTALLED.."
 
 
 ;;
 
-#Install Mirai-Source-Code
+#Install TBomb
 
-22) git clone https://github.com/jgamblin/Mirai-Source-Code
+22) git clone https://github.com/fu8uk1/TBomb
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -934,17 +935,17 @@ c
 
 ;;
 
-#Install bom
+#Install PyFlooder
 
-26) git clone https://github.com/rootnet007/bom
+26) git clone https://github.com/fu8uk1/PyFlooder.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
 ;;
 
-#Install tool
+#Install GenTiny
 
-27) git clone https://github.com/rootnet007/tool
+27) git clone https://github.com/fu8uk1/GenTiny.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -958,9 +959,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Malwares
+#Install Seeker
 
-29) git clone https://github.com/malwares
+29) git clone https://github.com/fu8uk1/Seeker.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -982,9 +983,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install IFC
+#Install vulnx
 
-32) git clone https://github.com/rootnet007/ifc.git
+32) git clone https://github.com/anouarbensaad/vulnx.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -1014,17 +1015,17 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Kawai-Botnet
+#Install email2phonenumber
 
-36) git clone https://github.com/cvar1984/Kawai-Botnet
+36) git clone https://github.com/martinvigo/email2phonenumber.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
 ;;
 
-#Install DarkSploit
+#Install SPY-KING
 
-37) git clone https://github.com/LOoLzeC/DarkSploit
+37) git clone https://github.com/king-hacking/SPY-KING.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -1054,9 +1055,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install RootNet
+#Install LittleBrother
 
-41) git clone https://github.com/rootnet007/rootnet.git
+41) git clone https://github.com/lulz3xploit/LittleBrother.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -2996,7 +2997,7 @@ echo -e "${y} python3 cam-hackers.py"
 echo "FU-B0X ON YOUR SYSTEM" | lolcat
 echo "FCA ASSOCIATION" | lolcat
 echo "THANKS FOR USING MY TOOL" | lolcat
-echo "THANKS TO TIGI TO BE BETA TEST" | lolcat
+echo "THANKS TO TIGI FOR CONTRIBUTIONS" | lolcat
 figlet FU8UK1 | lolcat
 exit
 ;;
