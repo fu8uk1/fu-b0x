@@ -66,7 +66,7 @@ $ chmod +x fu-b0x.sh
 $ bash ./fu-b0x.sh
 
 
-![Screenshot](https://l-oasis-du-web.eu/up/cap1.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu1.png)
 
 ![Screenshot](https://l-oasis-du-web.eu/up/cap2.png)
 
