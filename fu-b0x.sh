@@ -1,7 +1,11 @@
 #!/bin/bash
-#version 3.02
+#version 4.0
 
 #fu8uk1
+
+#Changing the Description of this tool |
+#|Won't made you the coder ^_^ !!!      |
+#|#Respect Coderz ^_^                   | 
 
 
 #27/08/2020
@@ -27,12 +31,16 @@ figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : BASH $green " |lolcat
-echo -b "VERSION   : V.3.02 " | lolcat
+echo -b "VERSION   : 4.0 " | lolcat
 echo -b "TOTALS    : 312 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
 echo -b "CONTRIBUTOR : TIGI $green " |lolcat
-echo -b "DON'T USE THIS TOOL FOR ILLEGAL ACTIVITIES      " | lolcat
+echo -b "CONTRIBUTOR : XICO $green " |lolcat
+echo -b "DON'T USE THIS TOOL FOR ILLEGAL ACTIVITIES " | lolcat
+echo -b "Changing the Description of this tool " |lolcat
+echo -b "Won't made you the coder ^_^ !!!  " |lolcat
+echo -b "Respect Coderz ^_^ " |lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -68,383 +76,570 @@ echo -e "######################################" | lolcat
 
 echo ""
 echo -e "============================" | lolcat
-echo -e $b "1. Install shellphish${enda}";
+echo -e $b "1. Install shellphish${enda}"
+echo -e "Phishing Tool for Instagram, Facebook, Twitter, Snapchat, etc" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "2. Install Admin-finder${endcla}";
+echo -e $b "2. Install Admin-finder${endcla}"
+echo -e "Blazing fast admin panel finder with asyncio and aiohttp" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "3. Install RED_HAWK${enda}";
+echo -e $b "3. Install RED_HAWK${enda}"
+echo -e "All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration …" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "4. Install Lazymux${enda}";
+echo -e $b "4. Install Lazymux${enda}"
+echo -e "termux tool installer" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "5. Install Tools-X${enda}";
+echo -e $b "5. Install Tools-X${enda}"
+echo -e "Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X …" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "6. Install Mrcakil${enda}";
 echo -e "============================" | lolcat
-echo -e $b "7. Install D-TECT${enda}";
+echo -e $b "7. Install D-TECT${enda}"
+echo -e "Pentesting the Modern Web" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "8. Install Mr.Rv1.1${enda}";
 echo -e "============================" | lolcat
-echo -e $b "9. Install BAJINGANv6${enda}";
+echo -e $b "9. Install BAJINGANv6${enda}"
+echo -e "Tools Auto installer from Darkness Cyber Team We Security We Not Friends We Are Family" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "10. Install MultiBruteForce(MBF)${enda}";
+echo -e $b "10. Install MultiBruteForce(MBF)${enda}"
+echo -e "Multi bruteforce facebook" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "11. Install XERXES${enda}";
+echo -e $b "11. Install XERXES${enda}"
+echo -e "Xerxes dos tool enhanced" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "12. Install LITESPAM${enda}";
+echo -e $b "12. Install LITESPAM${enda}"
+echo -e "Contains Tools Spammers With Various Types With High Limit Even Unlimited" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "13. Install Android-Malware${enda}";
+echo -e $b "13. Install Android-Malware${enda}"
+echo -e "A collection of android security related resources" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "14. Install SigPloit${enda}";
+echo -e $b "14. Install SigPloit${enda}"
+echo -e "Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "15. Install Sn1per${enda}";
+echo -e $b "15. Install Sn1per${enda}"
+echo -e "Automated pentest framework for offensive security experts" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "16. Install ICG-AutoExploiterBoT${enda}";
+echo -e $b "16. Install ICG-AutoExploiterBoT${enda}"
+echo -e "free Penetration Testing tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "17. Install QRLJacking${enda}";
+echo -e $b "17. Install QRLJacking${enda}"
+echo -e "A New Social Engineering Attack Vector" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "18. Install txtool${enda}";
+echo -e $b "18. Install txtool${enda}"
+echo -e "txtool is made to help you for easly pentesting in termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "19. Install Bulltools${enda}";
+echo -e $b "19. Install Bulltools${enda}"
+echo -e "Hacking Tools All in One" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "20. Install Termux-Banner${enda}";
+echo -e $b "20. Install Termux-Banner${enda}"
+echo -e "All in One Termux Os" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "21. Install inshackle-bot${enda}";
+echo -e $b "21. Install inshackle-bot${enda}"
+echo -e "Get unlimited followers on Instagram for free" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "22. Install TBomb${enda}";
+echo -e $b "22. Install TBomb${enda}"
+echo -e "An open-source SMS/call bomber for Linux And Termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "23. Install Hale${enda}";
+echo -e $b "23. Install Hale${enda}"
+echo -e "Botnet command & control monitor" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "24. Install Mirai-IoT-BotNet${enda}";
+echo -e $b "24. Install Mirai-IoT-BotNet${enda}"
+echo -e "Mirai Iot Botnet && Tutorial" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "25. Install Ufonet${enda}";
+echo -e $b "25. Install Ufonet${enda}"
+echo -e "Denial of Service Toolkit" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "26. Install PyFlooder${enda}";
+echo -e $b "26. Install PyFlooder${enda}"
+echo -e "A http flood python script that could stop a normal website in 10s" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "27. Install Gentiny${enda}";
+echo -e $b "27. Install Gentiny${enda}"
+echo -e "URL shortener" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "28. Install BotNet${enda}";
+echo -e $b "28. Install BotNet${enda}"
+echo -e "Botnet" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "29. Install Seeker${enda}";
+echo -e $b "29. Install Seeker${enda}"
+echo -e "Accurately Locate Smartphones using Social Engineering" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "30. Install zeus-bot${enda}";
+echo -e $b "30. Install poseidon-bot${enda}"
+echo -e "The God of Bots" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "31. Install AutoSploit${enda}";
+echo -e $b "31. Install AutoSploit${enda}"
+echo -e "Automated Mass Exploiter" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "32. Install Vulnx${enda}";
+echo -e $b "32. Install Vulnx${enda}"
+echo -e "Vulnx is An Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "33. Install SQLMAP${enda}";
+echo -e $b "33. Install SQLMAP${enda}"
+echo -e "Automatic SQL injection and database takeover tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "34. Install Spyder${enda}";
+echo -e $b "34. Install Spyder${enda}"
+echo -e "Forked from BlackHoleSecurity/Spyder" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "35. Install Social-Engineer-ToolKit${enda}";
+echo -e $b "35. Install Social-Engineer-ToolKit${enda}"
+echo -e "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here." | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "36. Install Email2PhoneNumber${enda}";
+echo -e $b "36. Install Email2PhoneNumber${enda}"
+echo -e "email2phonenumber is an OSINT tool that allows you to obtain a target's phone number just by having his email address." | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "37. Install Spy-King${enda}";
+echo -e $b "37. Install Spy-King${enda}"
+echo -e "Now you can download the most powerful tools using this simple script" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "38. Install SH33LL${enda}";
+echo -e $b "38. Install SH33LL${enda}"
+echo -e "SHELL SCANNER" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "39. Install Evil-Create-Framework${enda}";
+echo -e $b "39. Install Evil-Create-Framework${enda}"
+echo -e "tools to make viruses simple" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "40. Install Gabutz${enda}";
+echo -e $b "40. Install Pentest-Tools-Framework${enda}"
+echo -e "Pentest Tools Framework is a database of exploits, Scanners and tools for penetration testing" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "41. Install LittleBrother${enda}";
+echo -e $b "41. Install LittleBrother${enda}"
+echo -e "LittleBrother est un outil de collectes d'informations (OSINT) qui vise à effectuer des recherches sur une personne" | lolcat;
 echo -e "============================"| lolcat
-echo -e $b "42. Install BadMod${enda}";
+echo -e $b "42. Install BadMod${enda}"
+echo -e "auto exploiter & get all server sites & bing dorker" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "43. Install BoomHash${enda}";
+echo -e $b "43. Install BoomHash${enda}"
+echo -e "is a python script which uses several online hash crackers to find the clear Text of any hash" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "44. Install Plutus${enda}";
+echo -e $b "44. Install Plutus${enda}"
+echo -e "A Bitcoin wallet collider that brute forces random wallet addresses" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "45. Install ContexPloit${enda}";
+echo -e $b "45. Install ContexPloit${enda}"
+echo -e "Contec Smart Home unauthorized user added" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "46. Install Th3inspector${enda}";
+echo -e $b "46. Install Th3inspector${enda}"
+echo -e "best tool for Information Gathering" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "47. Install Findip${enda}";
+echo -e $b "47. Install Findip${enda}"
+echo -e "Find Ip Location" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "48. Install V3nom-Scanner${enda}";
+echo -e $b "48. Install V3nom-Scanner${enda}"
+echo -e "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "49. Install Bom Sms 3${enda}";
+echo -e $b "49. Install PyLoggy${enda}"
+echo -e "PyLoggy is simple and powerful Python keylogger that is able to log keystrokes" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "50. Install WebKiller${enda}";
+echo -e $b "50. Install WebKiller${enda}"
+echo -e "Tool Information Gathering Write With Python." | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "51. Install Bitcoin-Hacking-Tools${enda}";
+echo -e $b "51. Install Bitcoin-Hacking-Tools${enda}"
+echo -e "The source code of main tools used in Bitcoin "non-malware-based" attacks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "52. Install Firefox-Plugin-Popup-Logout${enda}";
+echo -e $b "52. Install Firefox-Plugin-Popup-Logout${enda}"
+echo -e "Firefox plugin to unhide the logout buttons" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "53. Install Bitcoin-All-Key-Generator${enda}";
+echo -e $b "53. Install Bitcoin-All-Key-Generator${enda}"
+echo -e "directory.io without the latency" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "54. Install My-First-Bitcoin-Miner${enda}";
+echo -e $b "54. Install My-First-Bitcoin-Miner${enda}"
+echo -e "For the curious minds who want to understand how Bitcoin Blockchain works!" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "55. Install Parity-Config-Generator${enda}";
+echo -e $b "55. Install Parity-Config-Generator${enda}"
+echo -e "Parity Config Generator" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "56. Install Distributed-Bitcoin-Generator${enda}";
+echo -e $b "56. Install Distributed-Bitcoin-Generator${enda}"
+echo -e "Distributed Bitcoin Generator in Scala using a client and server model" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "57. Install Mesos-Bitcoin-Miner${enda}";
+echo -e $b "57. Install Mesos-Bitcoin-Miner${enda}"
+echo -e "A Mesos framework that mines Bitcoin" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "58. Install Git_Psibot_Hacking${enda}";
+echo -e $b "58. Install Git_Psibot_Hacking${enda}"
+echo -e "Some new and old toys...lots of fun" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "59. Install KatanaFramework${enda}";
+echo -e $b "59. Install KatanaFramework${enda}"
+echo -e "The New Hacking Framework" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "60. Install STP${enda}";
+echo -e $b "60. Install STP${enda}"
+echo -e "Social Toolkit for Phishing Attacks, a multiplatform tool to simulate phishing attack based on node" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "61. Install Termux-Ubuntu${enda}";
+echo -e $b "61. Install Termux-Ubuntu${enda}"
+echo -e "A script to install Ubuntu chroot in Termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "62. Install Nethuner-In-Termux${enda}";
+echo -e $b "62. Install Nethuner-In-Termux${enda}"
+echo -e "This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "63. Install viSQL${enda}";
+echo -e $b "63. Install Osx-Script${enda}"
+echo -e "Hacking environment installation scripts for OS X" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "64. Install Termux-Archlinux${enda}";
+echo -e $b "64. Install Termux-Archlinux${enda}"
+echo -e "Experience the pleasure of the Linux command prompt in Android" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "65. Install Santet-Online${enda}";
+echo -e $b "65. Install Santet-Online${enda}"
+echo -e "Social Engineering Tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "66. Install GadoGado${enda}";
+echo -e $b "66. Install Torghost${enda}"
+echo -e "TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "67. Install CnkSpam${enda}";
+echo -e $b "67. Install Evil-Droid${enda}"
+echo -e "Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platform" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "68. Install AutoReportFB${enda}";
+echo -e $b "68. Install AutoReportFB${enda}"
+echo -e "Proof Of Concept Abstractable Auto report profile facebook" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "69. Install Google-Dork${enda}";
+echo -e $b "69. Install Google-Dork${enda}"
+echo -e "Google Dorks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "70. Install FHX-Hash-Killer${enda}";
+echo -e $b "70. Install FHX-Hash-Killer${enda}"
+echo -e "Hash Killer" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "71. Install Hash-Buster${enda}";
+echo -e $b "71. Install Hash-Buster${enda}"
+echo -e "Crack hashes in seconds" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "72. Install Metasploit${enda}";
+echo -e $b "72. Install Metasploit${enda}"
+echo -e "metasploit" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "73. Install Striker${enda}";
+echo -e $b "73. Install Striker${enda}"
+echo -e "Striker is an offensive information and vulnerability scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "74. Install AutoScriptKiddieTool${enda}";
+echo -e $b "74. Install AutoScriptKiddieTool${enda}"
+echo -e "scans the site for vulnerabilities(SQL,XXS), finger admin panel and found site dirs" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "75. Install Weeman${enda}";
+echo -e $b "75. Install Weeman${enda}"
+echo -e "HTTP server for phishing in python" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "76. Install SCANNER-INURLBR${enda}";
+echo -e $b "76. Install SCANNER-INURLBR${enda}"
+echo -e "Advanced search in search engines, enables analysis provided to exploit GET, POST capturing emails and urls" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "77. Install Script-Deface-Creator${enda}";
+echo -e $b "77. Install Script-Deface-Creator${enda}"
+echo -e "Script deface" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "78. Install ktpKkGenerate${enda}";
+echo -e $b "78. Install Fuxsocy${enda}"
+echo -e "This is intended to encrypt every bit of data in a unix filesystem using 256-bit AES with a self-destructing, randomly generated key" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "79. Install ReconDog${enda}";
+echo -e $b "79. Install ReconDog${enda}"
+echo -e "Reconnaissance Swiss Army Knife" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "80. Install HakkuFramework${enda}";
+echo -e $b "80. Install HakkuFramework${enda}"
+echo -e "Hakku Framework penetration testing" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "81. Install HunnerFramework${enda}";
+echo -e $b "81. Install HunnerFramework${enda}"
+echo -e "Hacking framework This framework is designed to perform penetration testing" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "82. Install Hammer${enda}";
+echo -e $b "82. Install Hammer${enda}"
+echo -e "Hammer DDos Script - Python 3" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "83. Install Torshammer${enda}";
+echo -e $b "83. Install Torshammer${enda}"
+echo -e "Tor's hammer. Slow post DDOS tool written in python" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "84. Install Katoolin${enda}";
+echo -e $b "84. Install Katoolin${enda}"
+echo -e "Automatically install all Kali linux tools" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "85. Install MPSYT${enda}";
+echo -e $b "85. Install MPSYT${enda}"
+echo -e "Youtube" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "86. Install A-Rat${enda}";
+echo -e $b "86. Install Sylver${enda}"
+echo -e "Mass scan IPs for vulnerable services" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "87. Install Cupp${enda}";
+echo -e $b "87. Install Cupp${enda}"
+echo -e "Common User Passwords Profiler (CUPP)" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "88. Install Webpwn3r${enda}";
+echo -e $b "88. Install Webpwn3r${enda}"
+echo -e "Web Applications Security Scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "89. Install IPGeolocation${enda}";
+echo -e $b "89. Install IPGeolocation${enda}"
+echo -e "Retrieve IP Geolocation information" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "90. Install XL${enda}";
+echo -e $b "90. Install 4nonimizer${enda}"
+echo -e "A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "91. Install BotFbBangDjon${enda}";
+echo -e $b "91. Install Facebash${enda}"
+echo -e "Facebook Brute Forcer in shellscript using TOR" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "92. Install 4wsectools${enda}";
+echo -e $b "92. Install Photon${enda}"
+echo -e "Incredibly fast crawler designed for OSINT" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "93. Install Admin_Penal${enda}";
+echo -e $b "93. Install Admin_Penal${enda}"
+echo -e "You can Find Your Website Admin Penal With This Python Script" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "94. Install RouterSploit${enda}";
+echo -e $b "94. Install RouterSploit${enda}"
+echo -e "The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "95. Install RusSpam${enda}";
+echo -e $b "95. Install Horn3t${enda}"
+echo -e "Better Subdomain Reconnaissance" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "96. Install Jexboss${enda}";
+echo -e $b "96. Install Jexboss${enda}"
+echo -e "JexBoss is a tool for testing and exploiting vulnerabilities in JBoss Application Server and others Java Platforms" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "97. Install WifiPhisher${enda}";
+echo -e $b "97. Install WifiPhisher${enda}"
+echo -e "rogue Access Point framework for conducting red team engagements or Wi-Fi security testing" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "98. Install WebSploit${enda}";
+echo -e $b "98. Install WebSploit${enda}"
+echo -e "Websploit is an advanced MITM framework" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "99. Install Wifi-Hacker${enda}";
+echo -e $b "99. Install Wifi-Hacker${enda}"
+echo -e "Shell Script For Attacking Wireless Connections Using Built-In Kali Tools" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "100. Install Mr.Rv1${enda}";
+echo -e $b "100. Install SourceLeakHacker${enda}"
+echo -e "SourceLeakHacker is a muilt-threads web directories scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "101. Install Mr.Rv.2${enda}";
+echo -e $b "101. Install rapidscan${enda}"
+echo -e "The Multi-Tool Web Vulnerability Scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "102. Install Stegosploit${enda}";
+echo -e $b "102. Install Stegosploit${enda}"
+echo -e "IMAJS" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "103. Install Blazy${enda}";
+echo -e $b "103. Install Blazy${enda}"
+echo -e "Blazy is a modern login page bruteforcer" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "104. Install anonymous${enda}";
+echo -e $b "104. Install SharpAttack${enda}"
+echo -e "SharpAttack is a console for certain things I use often during security assessments" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "105. Install Bingoo${enda}";
+echo -e $b "105. Install Bingoo${enda}"
+echo -e "BinGoo! A Linux bash based Bing and Google Dorking Tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "106. Install Tool-X${enda}";
+echo -e $b "106. Install Tool-X${enda}"
+echo -e "Tool-X is a Kali Linux hacking tools installer for Termux and linux system" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "107. Install kickthemout${enda}";
+echo -e $b "107. Install kickthemout${enda}"
+echo -e "A tool to kick devices out of your network and enjoy all the bandwidth for yourself" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "108. Install T.DYf[300Tools]${enda}";
+echo -e $b "108. Install Cr3d0v3r${enda}"
+echo -e "Your best friend in credential reuse attacks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "109. Install HPAS-1369${enda}";
+echo -e $b "109. Install operative-framework${enda}"
+echo -e "digital investigation framework" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "110. Install pemulungBTC${enda}";
+echo -e $b "110. Install DELTA${enda}"
+echo -e "SDN SECURITY EVALUATION FRAMEWORK" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "111. Install TouchUrl${enda}";
+echo -e $b "111. Install IoT-Implant-Toolkit${enda}"
+echo -e "framework of useful tools for malware implantation research of IoT devices" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "112. Install IP-TRACK${enda}";
+echo -e $b "112. Install PROXY-List${enda}"
+echo -e "Get PROXY List that gets updated everyday" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "113. Install Kuyang-Tool${enda}";
+echo -e $b "113. Install TorrGrab${enda}"
+echo -e "A Torrent Magnet Link Scrapper" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "114. Install SpazSMS${enda}";
+echo -e $b "114. Install SpazSMS${enda}"
+echo -e "Send unsolicited messages repeatedly on the same phone number" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "115. Install SiteBroker${enda}";
+echo -e $b "115. Install SiteBroker${enda}"
+echo -e "A cross-platform python based utility for information gathering and penetration testing automation" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "116. Install Email-Bomber${enda}";
+echo -e $b "116. Install BlackWidow${enda}"
+echo -e "A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "117. Install Ip-Gathering${enda}";
+echo -e $b "117. Install SecLists${enda}"
+echo -e "It's a collection of multiple types of lists used during security assessments" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "118. Install Scorpion${enda}";
+echo -e $b "118. Install pixload${enda}"
+echo -e "Image Payload Creating/Injecting tools" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "119. Install New-Spammer${enda}";
+echo -e $b "119. Install unfx-proxy-checker${enda}"
+echo -e "Powerful proxy checker with huge features and beautiful design" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "120. Install Spam${enda}";
+echo -e $b "120. Install Spam${enda}"
+echo -e "SPAM SMS Unlimited" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "121. Install QJDID${enda}";
+echo -e $b "121. Install QJDID${enda}"
+echo -e "SPAM SMS" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "122. Install QFloodSms${enda}";
+echo -e $b "122. Install QFloodSms${enda}"
+echo -e "SPAM SMS" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "123. Install Login-Termux${enda}";
+echo -e $b "123. Install Login-Termux${enda}"
+echo -e "Login Termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "124. Install Linux${enda}";
+echo -e $b "124. Install Linux${enda}"
+echo -e "Linux kernel source tree" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "125. Install Komodo${enda}";
+echo -e $b "125. Install IP-Tracer${enda}"
+echo -e "Track any ip address with IP-Tracer" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "126. Install HN-Installer${enda}";
+echo -e $b "126. Install RusseLogger${enda}"
+echo -e "A keyLogger that sends logs by email, FTP, and ICMP (ping)" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "127. Install Deface-Create${enda}";
+echo -e $b "127. Install RAT-Hodin-v2.9${enda}"
+echo -e "A Remote Administration Tool for Linux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "128. Install Good_Terminal${enda}";
+echo -e $b "128. Install TalentRAT${enda}"
+echo -e "Happy project for android rat" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "129. Install Saddam${enda}";
+echo -e $b "129. Install Saddam${enda}"
+echo -e "DDoS Tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "130. Install SqliteBrowser${enda}";
+echo -e $b "130. Install SqliteBrowser${enda}"
+echo -e "Official home of the DB Browser for SQLite (DB4S) project" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "131. Install PoC-Exploit${enda}";
+echo -e $b "131. Install PoC-Exploit${enda}"
+echo -e "PoC And Exp Of Vulnerability" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "132. Install VTools${enda}";
+echo -e $b "132. Install VTools${enda}"
+echo -e "This tool is made using the bash programming language" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "133. Install Termux-Loginv2fx${enda}";
+echo -e $b "133. Install Termux-Loginv2fx${enda}"
+echo -e "termux login v2" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "134. Install Anti-DDOS${enda}";
+echo -e $b "134. Install Anti-DDOS${enda}"
+echo -e "Open source software project developed to protect against DOS and DDoS attacks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "135. Install NScan${enda}";
+echo -e $b "135. Install NScan${enda}"
+echo -e "Nscan is a fast Network scanner optimized for internet-wide scanning" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "136. Install Hostcheker${enda}";
+echo -e $b "136. Install Saycheese${enda}"
+echo -e "Take webcam shots from target just sending a malicious link" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "137. Install WebKit${enda}";
+echo -e $b "137. Install HiddenEye${enda}"
+echo -e "Modern Phishing Tool With Advanced Functionality" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "138. Install AOCDEFACE${enda}";
+echo -e $b "138. Install AOCDEFACE${enda}"
+echo -e "Simple script for deface" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "139. Install Face-Hack${enda}";
+echo -e $b "139. Install Face-Hack${enda}"
+echo -e "Facebook Account Sniper" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "140. Install Bash-Ransomware${enda}";
+echo -e $b "140. Install Bash-Ransomware${enda}"
+echo -e "Ransomware Encrypt & Decrypt File With Bash Shell Script" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "141. Install Cli-Browser${enda}";
+echo -e $b "141. Install Cli-Browser${enda}"
+echo -e "CLI-Browser :: Saving Your Internet Data" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "142. Install Spam-Mantan${enda}";
+echo -e $b "142. Install PRETty${enda}"
+echo -e "PRinter Exploitation Toolkit LAN automation tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "143. Install ngrok-stable-linux-arm${enda}";
+echo -e $b "143. Install ngrok-stable-linux-arm${enda}"
+echo -e "Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels" LAN automation tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "144. Install Hulk${enda}";
+echo -e $b "144. Install Hulk${enda}"
+echo -e "DoS tool ported to Go language from Python" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "145. Install Termux-Lazsqlmap${enda}";
+echo -e $b "145. Install Termux-Lazsqlmap${enda}"
+echo -e "SQLMap For Lazy People Edition" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "146. Install Shellnoob${enda}";
+echo -e $b "146. Install Shellnoob${enda}"
+echo -e "A shellcode writing toolkit" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "147. Install ATSCAN${enda}";
+echo -e $b "147. Install ATSCAN${enda}"
+echo -e "Advanced Mass Search / Dork / Exploitation Scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "148. Install Commix${enda}";
+echo -e $b "148. Install Commix${enda}"
+echo -e "Automated All-in-One OS command injection and exploitation tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "149. Install Wpscan${enda}";
+echo -e $b "149. Install Wpscan${enda}"
+echo -e "WordPress Security Scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "150. Install wpbf${enda}";
+echo -e $b "150. Install wpbf${enda}"
+echo -e "bruteforce tool to remotely test password strength, username enumeration and plugin detection on a WordPress site" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "151. Install GreenReaper${enda}";
+echo -e $b "151. Install GreenReaper${enda}"
+echo -e "Ddos tool on termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "152. Install Devploit${enda}";
+echo -e $b "152. Install Devploit${enda}"
+echo -e "Devploit" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "153. Install Ipmux${enda}";
+echo -e $b "153. Install Ipmux${enda}"
+echo -e "IP GeoLocation in termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "154. Install Genscript${enda}";
+echo -e $b "154. Install PhoneInfoga${enda}"
+echo -e "Advanced information gathering & OSINT framework for phone numbers" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "155. Install Airgeddon${enda}";
+echo -e $b "155. Install Airgeddon${enda}"
+echo -e "multi-use bash script for Linux systems to audit wireless networks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "156. Install AVARSpam${enda}";
+echo -e $b "156. Install Shellpy${enda}"
+echo -e "Simple reverse shell" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "157. Install ANRSpam${enda}";
+echo -e $b "157. Install ANRSpam${enda}"
+echo -e "Spammer" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "158. Install Termux-ohmyzsh${enda}";
+echo -e $b "158. Install Termux-ohmyzsh${enda}"
+echo -e "A fork from termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "159. Install CredSniper${enda}";
+echo -e $b "159. Install CredSniper${enda}"
+echo -e "New phishing site fully presented with SSL and capture credentials along with 2FA tokens using CredSniper" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "160. Install Fluxion${enda}";
+echo -e $b "160. Install Fluxion${enda}"
+echo -e "Fluxion is the Future of MITM WPA Attacks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "161. Install pixiewps${enda}";
+echo -e $b "161. Install pixiewps${enda}"
+echo -e "Bruteforce offline the WPS PIN" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "162. Install wifite${enda}";
+echo -e $b "162. Install wifite${enda}"
+echo -e "Wifite is an automated wireless attack tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "163. Install Zones${enda}";
+echo -e $b "163. Install Buster${enda}"
+echo -e "Buster is an advanced OSINT tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "164. Install sqlokmed${enda}";
+echo -e $b "164. Install SocialFish${enda}"
+echo -e "Automated Phishing Tool & Information Collector" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "165. Install Sir${enda}";
+echo -e $b "165. Install Sir${enda}"
+echo -e "Skype Ip Resolver" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "166. Install Easymap${enda}";
+echo -e $b "166. Install Easymap${enda}"
+echo -e "Nmap Shortcut" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "167. Install Sqliv${enda}";
+echo -e $b "167. Install Sqliv${enda}"
+echo -e "Massive SQL injection scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "168. Install AndroidPinCrack${enda}";
+echo -e $b "168. Install AndroidPinCrack${enda}"
+echo -e "Bruteforce the Android Passcode" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "169. Install NetKiller${enda}";
+echo -e $b "169. Install Blazy${enda}"
+echo -e "Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "170. Install IPscan${enda}";
+echo -e $b "170. Install IPScan${enda}"
+echo -e "IP Scanning using NMAP" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "171. Install XPL-SEARCH${enda}";
+echo -e $b "171. Install Instagram-Toolbox${enda}"
+echo -e "This Script Can Get Informations,Grab Users,Check Users,Brute Force Accounts" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "172. Install Bolang${enda}";
+echo -e $b "172. Install Bolang${enda}"
+echo -e "Example Language golang/Go" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "173. Install Termux-Go${enda}";
+echo -e $b "173. Install Termux-Go${enda}"
+echo -e "Termux is an Android terminal emulator and Linux environment app" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "174. Install Toolss${enda}";
+echo -e $b "174. Install Toolss${enda}"
+echo -e "Automatic hacking tools installer for Android [ONLY FOR TERMUX]" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "175. Install AngryFuzzer${enda}";
+echo -e $b "175. Install AngryFuzzer${enda}"
+echo -e "collection of tools for pentesting to gather information and discover vulnerabilities" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "176. Install Hacktronian${enda}";
+echo -e $b "176. Install Hacktronian${enda}"
+echo -e "Pentesing Tools That All Hacker Needs" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "177. Install EvilURL${enda}";
+echo -e $b "177. Install EvilURL${enda}"
+echo -e "Generate unicode evil domains for IDN Homograph Attack and detect them" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "178. Install CredMap${enda}";
+echo -e $b "178. Install CredMap${enda}"
+echo -e "Tool that was created to bring awareness to the dangers of credential reuse" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "179. Install Pybelt${enda}";
+echo -e $b "179. Install Pybelt${enda}"
+echo -e "The hackers tool belt" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "180. Install PyBozoCrack${enda}";
+echo -e $b "180. Install PyBozoCrack${enda}"
+echo -e "A depressingly effective MD5 password hash cracker with almost zero CPU/GPU load written in Python" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "181. Install Hashzer${enda}";
+echo -e $b "181. Install CrawlBox${enda}"
+echo -e "Easy way to brute-force web directory" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "182. Install Poet${enda}";
+echo -e $b "182. Install Poet${enda}"
+echo -e "A simple POst-Exploitation Tool" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "183. Install MamangKey${enda}";
+echo -e $b "183. Install MamangKey${enda}"
+echo -e "Tools to encrypt your python script" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "184. Install Termux-Sudo${enda}";
+echo -e $b "184. Install Termux-Sudo${enda}"
+echo -e "A bash script that provides sudo for Termux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "185. Install Nikto${enda}";
+echo -e $b "185. Install Nikto${enda}"
+echo -e "Nikto web server scanner" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "186. Install Tuyulbtn${enda}";
+echo -e $b "186. Install Black-Dorker${enda}"
+echo -e "This Script Can Generate,Grab And Check Url's" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "187. Install Fsociety${enda}";
+echo -e $b "187. Install Fsociety${enda}"
+echo -e "A Penetration Testing Framework, you will have every script that a hacker needs" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "188. Install 1337Hash${enda}";
+echo -e $b "188. Install WordPress-Hacker${enda}"
+echo -e "This Script Can Generate,Crack And Check Hash Type" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "189. Install CyberScan${enda}";
+echo -e $b "189. Install EvilOSX${enda}"
+echo -e "An evil RAT (Remote Administration Tool) for macOS / OS X" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "190. Install Bitcoin-Wallet${enda}";
 echo -e "============================" | lolcat
@@ -803,7 +998,7 @@ echo -e "${y} python2 MBF.py"
 
 #Install XERXES
 
-11) git clone https://github.com/zanyarjamal/xerxes
+11) git clone https://github.com/sepehrdaddev/Xerxes.git
 echo -e "${y} installer xerxer..."
 echo -e "${y} apt install clang"
 echo -e "${y} cd xerxes"
@@ -1112,14 +1307,14 @@ echo -e "${y} ALREADY INSTALLED.."
 
 #Install V3nom-Scanner
 
-48) git clone https://github.com/v3n0m-Scanner
+48) git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Bom Sms 3
+#Install PyLoggy
 
-49) git clone https://github.com/ardzz/tri/
+49) git clone https://github.com/fu8uk1/PyLoggy.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1215,9 +1410,9 @@ echo -e "${y} SUDAH  TERINSTALL.."
 
 ;;
 
-#Install viSQL
+#Install Osx-Scripts
 
-63) git clone https://github.com/blackvkng/viSQL.git
+63) git clone https://github.com/fu8uk1/osx-scripts.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1236,16 +1431,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install GadoGado
+#Install Torghost
 
-66) git clone https://github.com/Senitopeng/GadoGado.git
+66) git clone https://github.com/fu8uk1/torghost.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#install CnkSpam
+#install Evil-Droid
 
-67) git clone https://github.com/hatakecnk/cnkspam
+67) git clone https://github.com/fu8uk1/Evil-Droid.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1327,9 +1522,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install KtpKkGenerate
+#Install Fuxsocy
 
-78) git clone https://github.com/zerosvn/ktpkkgenerate
+78) git clone https://github.com/fu8uk1/fuxsocy.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1386,9 +1581,9 @@ mpsyt
 
 ;;
 
-#Install A-Rat
+#Install Silver
 
-86) git clone https://github.com/Xi4u7/A-Rat.git
+86) git clone https://github.com/s0md3v/Silver.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1414,23 +1609,23 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install XL
+#Install 4nonimizer
 
-90) git clone https://github.com/joss24242/xl-py 90
+90) git clone https://github.com/fu8uk1/4nonimizer.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install BotFbBangDjon
+#Install Facebash
 
-91) git clone https://github.com/Senitopeng/BotFbBangDjon.git
+91) git clone https://github.com/fu8uk1/Facebash.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install 4wsectools
+#Install Photon
 
-92) git clone https://github.com/aryanrtm/4wsectools
+92) git clone https://github.com/s0md3v/Photon.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1444,14 +1639,14 @@ echo -e "${y} ALREADY INSTALLED.."
 
 #Install RouterSploit
 
-94) https://github.com/reverse-shell/routersploit.git
+94) git clone https://github.com/reverse-shell/routersploit.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install RusSpam
+#Install Horn3t
 
-95) git clone https://github.com/Rusmana-ID/rus
+95) git clone https://github.com/JannisKirschner/Horn3t.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1484,16 +1679,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Mr.Rv1
+#Install SourceLeakHacker
 
-100) git clone https://github.com/Mr-R225/Mr.Rv1
+100) git clone https://github.com/WangYihang/SourceLeakHacker.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Mr.Rv2
+#Install rapidscan
 
-101) git clone https://github.com/Mr-R225/Mr.Rv2
+101) git clone https://github.com/skavngr/rapidscan.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1512,9 +1707,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Anonymous
+#Install SharpAttack
 
-104) git clone https://github.com/SitiMaimunah/anonymous.git
+104) git clone https://github.com/jaredhaight/SharpAttack.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1555,44 +1750,44 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install T.DYF[300Tools]
+#Install Cr3dOv3r
 
-108) git clone https://github.com/droidxerror123/T.DYF
+108) git clone https://github.com/D4Vinci/Cr3dOv3r.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install HPAS1369
+#Install operative-framework
 
-109) git clone https://github.com/DedSecCyber/HPAS1369
+109) git clone https://github.com/graniet/operative-framework.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install PemulungBTC
+#Install DELTA
 
-110) git clone https://github.com/Cvar1984/pemulungBTC
+110) git clone https://github.com/seungsoo-lee/DELTA.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install TouchUrl
+#Install IoT-Implant-Toolkit
 
-111) git clone https://github.com/SkyKnight-Team/TouchUrl
+111) git clone https://github.com/arthastang/IoT-Implant-Toolkit.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install IP-TRACK
+#Install PROXY-List
 
-112) git clone https://github.com/SkyKnighTeam/IP-TRACK
+112) git clone https://github.com/TheSpeedX/PROXY-List.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Kuyang-Tool
+#Install TorrGrab
 
-113) git clone https://github.com/kereh/Kuyang-Tool
+113) git clone https://github.com/TheSpeedX/TorrGrab.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1611,30 +1806,30 @@ echo -e "${y} ALREADY INSTALLED.. "
 
 ;;
 
-#Install Email-Bomber
+#Install BlackWidow
 
-116) git clone https://github.com/zanyarjamal/Email-bomber
+116) git clone https://github.com/1N3/BlackWidow.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Ip-Gathering
+#Install SecLists
 
-117) git clone https://github.com/kereh/Ip-gathering
+117) git clone https://github.com/danielmiessler/SecLists.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Scorpion
+#Install pixload
 
-118) git clone https://github.com/DedSecCyber/scorpion
+118) git clone https://github.com/chinarulezzz/pixload.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-# Install New-Spammer
+# Install unfx-proxy-checker
 
-119) git clone https://github.com/haijuga7/New-Spammer
+119) git clone https://github.com/assnctr/unfx-proxy-checker.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1674,30 +1869,30 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Komodo
+#Install IP-Tracer
 
-125) git clone https://github.com/Gameye98/Komodo
+125) git clone https://github.com/rajkumardusad/IP-Tracer.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install HN-Installer
+#Install RusseLogger
 
-126) git clone https://github.com/kereh/HN-Installer
+126) git clone https://github.com/JeSuisRusse/RusseLogger.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Deface-Create
+#Install RAT-Hodin
 
-127) git clone https://github.com/kereh/Deface-create
+127) git clone https://github.com/Thibault-69/RAT-Hodin-v2.9
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Good_Terminal
+#Install TalentRAT
 
-128) git clone https://github.com/kereh/Good_Termina
+128) git clone https://github.com/honglvt/TalentRAT
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1751,16 +1946,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Hostcheker
+#Install Saycheese
 
-136) git clone https://github.com/pirmansx/hostcheker
+136) git clone https://github.com/fu8uk1/saycheese
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install WebKit
+#Install HiddenEye
 
-137) git clone https://github.com/ciku370/WebKit
+137) git clone https://github.com/DarkSecDevelopers/HiddenEye
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1793,9 +1988,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Spam-Mantan
+#Install PRETty
 
-142) git clone https://github.com/not404foundcyberteam/spam-mantan
+142) git clone https://github.com/BusesCanFly/PRETty
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1877,9 +2072,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Genscript
+#Install PhoneInfoga
 
-154) git clone https://github.com/x-xsystm/genscript
+154) git clone https://github.com/sundowndev/PhoneInfoga
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1891,9 +2086,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install AVARspam
+#Install Shellpy
 
-156) git clone https://github.com/ALX-04/AVARspam
+156) git clone https://github.com/DarkSecDevelopers/Shellpy
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1940,16 +2135,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Zones
+#Install Buster
 
-163) git clone https://github.com/Cvar1984/zones
+163) git clone https://github.com/sham00n/buster
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Sqlokmed
+#Install SocialFish
 
-164) git clone https://github.com/Anb3rSecID/sqlokmed
+164) git clone https://github.com/UndeadSec/SocialFish
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1982,9 +2177,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install NetKiller
+#Install Blazy
 
-169) git clone https://github.com/sysadmimteam/NetKiller
+169) git clone https://github.com/UndeadSec/Blazy
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1996,9 +2191,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install XPL-SEARCH
+#Install Instagram-Toolbox
 
-171) git clone https://github.com/r00mars/XPL-SEARCH
+171) git clone https://github.com/ShayanDeveloper/Instagram-Toolbox
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -2033,7 +2228,7 @@ echo -e "${y} ALREADY INSTALLED.."
 
 #Install HackTronian
 
-176) git clone https://github.com/thegackingsage/hacktronian
+176) git clone https://github.com/thehackingsage/hacktronian
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -2066,9 +2261,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Hashzer
+#Install CrawlBox
 
-181) git clone https://github.com/Anb3rSecID/Hashzer
+181) git clone https://github.com/abaykan/CrawlBox
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -2101,9 +2296,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install TuyulBtn
+#Install Black-Dorker
 
-186) git clone https://github.com/Senitopeng/TuyulBtn
+186) git clone https://github.com/ShayanDeveloper/Black-Dorker
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -2115,16 +2310,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install 1337Hash
+#Install WordPress-Hacker
 
-188) git clone https://github.com/Gameye98/1337Hash
+188) git clone https://github.com/ShayanDeveloper/WordPress-Hacker
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install CyberScan
+#Install EvilOSX
 
-189) git clone https://github.com/medbenali/CybersScan
+189) git clone https://github.com/Marten4n6/EvilOSX
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -2997,8 +3192,8 @@ echo -e "${y} python3 cam-hackers.py"
 echo "FU-B0X ON YOUR SYSTEM" | lolcat
 echo "FCA ASSOCIATION" | lolcat
 echo "THANKS FOR USING MY TOOL" | lolcat
-echo "THANKS TO TIGI FOR CONTRIBUTIONS" | lolcat
-figlet FU8UK1 | lolcat
+echo "THANKS TO TIGI AND XICO FOR CONTRIBUTIONS" | lolcat
+figlet FU-B0X | lolcat
 exit
 ;;
 

@@ -1,3 +1,15 @@
+\- **Version 4.0** 
+
+\* Deleted soft : Bom Sms 3 , Visql , Gadogado , CnkSpam , KtlkKgenerate , A-rat , XLpy , BotFbBongDjon , RusSpam , Anonymous , T-DYF , Zeus-Bot , Gabutz , 4wsectools , Mr.rv.1 , Mr.rv.2 , HPA51369 , PemulungBTC , TouchURL , IPTrack , Kuyang-Tool , Email-Bomber , Ip-Gathering , Scorpion , NewSpammer , Komodo , HN-Installer , Deface-Create , Good-Termina , hostcheker , Webkit , Spam-Mantan , Genscript , AVARSpam , Zones ,SKLOKmed , NetKiller , XPL-Search , Hashzer , TuyulBtn , 1337hash , Cyberscan 
+
+\* Added soft : PyLoggy , Osx Script , Torghost , Evil-Droid , Fuxsocy , Sylver , 4nonimizer , Facebash , Horn3t , SharpAttack , Cr3d0v3r , Poseidon-Bot , Pentest-Tools-Framework , Photon , SourceLeakHacker , RapidScan , Operative-Framework , Delta , Iot-Implant-Toolkit , Proxy-List , TorrGrab , BlackWidow , SecLists , Pixload , Unfx-Proxy-Checker , IP-Tracer , RusseLogger , Rat-Hodin , TalentRat , Saycheese , HiddenEye , PRETty , Shellpy , Buster , SocialFish , Blazy , Instagram-Toolbox , Crawlbox , Black-Dorker , Wordpress-Hacker , EvilOSX , PhoneInfoga
+
+\* Added 189 descriptions of softs 
+
+
+
+
+
 \- **Version 3.02**  
 
 \* Deleted soft : Nmap , Udfhack , Mirai , Bom , Tool , Malware , IFC , Kawai Botnet , Darksploit , Rootnet
@@ -5,6 +17,8 @@
 \* Added soft : Shellphish , Vulnx , Email2PhoneNumber , Seeker , Inshackle , Gentiny , PyFlooder , TBomb , Spy-King , LittleBrother
 
 \* Deleted file "install.sh" because problems with compatibility 
+
+
 
 
 
