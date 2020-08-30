@@ -68,10 +68,10 @@ $ bash ./fu-b0x.sh
 
 ![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu1.png)
 
-![Screenshot](https://l-oasis-du-web.eu/up/cap2.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu2.png)
 
-![Screenshot](https://l-oasis-du-web.eu/up/cap3.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu3.png)
 
-![Screenshot](https://l-oasis-du-web.eu/up/cap4.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu4.png)
 
 
