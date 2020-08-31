@@ -501,7 +501,7 @@ echo -e $b "142. Install PRETty${enda}"
 echo -e "PRinter Exploitation Toolkit LAN automation tool" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "143. Install ngrok-stable-linux-arm${enda}"
-echo -e "Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels" LAN automation tool" | lolcat;
+echo -e "Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels LAN automation tool" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "144. Install Hulk${enda}"
 echo -e "DoS tool ported to Go language from Python" | lolcat;
