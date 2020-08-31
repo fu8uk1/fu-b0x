@@ -1,3 +1,15 @@
+\- **Version 4.1** 
+
+\* Deleted 32 soft : Bitcoin-Wallet , Camstream , XEIT-Cyber , CSRfpocmaker , PHP-Backconnector , Tool-Kit , Myenc , Blacktrack , Blackmail , BlackNmap , WP-Hunter , Remote-Shell , Killr , Nettacker , fucking-rat , Bruteforce Gmail , Lhst , PhishingGame , Ipddos , MultiSpam , Wascan , Jwt-Cracker , Md-Password , Watweb , Spamchat , Vulnscanner , IGP , Stagefight , Pencari , Galaulers , Typeracer , Debiantools 
+
+\* Added 19 soft : Andorat , Telekiller , Rat Via Telegram , Eggshell , LiteHTTP , Sitadel , Kalitorify , BruteX , Veil , Galileo , Fbi , TigerShark , Sms And Email Bomber , Sifter , Torat , ScanQli , Cynet , Ezsploit , WhatsappHack , Trojan-MDREO
+
+\* Added all descriptions of softs
+
+
+
+
+
 \- **Version 4.0** 
 
 \* Deleted soft : Bom Sms 3 , Visql , Gadogado , CnkSpam , KtlkKgenerate , A-rat , XLpy , BotFbBongDjon , RusSpam , Anonymous , T-DYF , Zeus-Bot , Gabutz , 4wsectools , Mr.rv.1 , Mr.rv.2 , HPA51369 , PemulungBTC , TouchURL , IPTrack , Kuyang-Tool , Email-Bomber , Ip-Gathering , Scorpion , NewSpammer , Komodo , HN-Installer , Deface-Create , Good-Termina , hostcheker , Webkit , Spam-Mantan , Genscript , AVARSpam , Zones ,SKLOKmed , NetKiller , XPL-Search , Hashzer , TuyulBtn , 1337hash , Cyberscan 
