@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 4.1
+#version 4.2
 
 #fu8uk1
 
@@ -31,8 +31,8 @@ figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : BASH $green " |lolcat
-echo -b "VERSION   : 4.1 " | lolcat
-echo -b "TOTALS    : 299 TOOLS " | lolcat
+echo -b "VERSION   : 4.2 " | lolcat
+echo -b "TOTALS    : 292 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
 echo -b "CONTRIBUTOR : TIGI $green " |lolcat
@@ -91,12 +91,14 @@ echo -e "============================" | lolcat
 echo -e $b "5. Install Tools-X${enda}"
 echo -e "Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X …" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "6. Install Mrcakil${enda}";
+echo -e $b "6. Install ZBOT-BotNet${enda}"
+echo -e "IRC based botnet developed in C" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "7. Install D-TECT${enda}"
 echo -e "Pentesting the Modern Web" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "8. Install Mr.Rv1.1${enda}";
+echo -e $b "8. Install Hacking-Tools${enda}"
+echo -e "Tools for forensics" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "9. Install BAJINGANv6${enda}"
 echo -e "Tools Auto installer from Darkness Cyber Team We Security We Not Friends We Are Family" | lolcat;
@@ -131,8 +133,8 @@ echo -e "============================" | lolcat
 echo -e $b "19. Install Bulltools${enda}"
 echo -e "Hacking Tools All in One" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "20. Install Termux-Banner${enda}"
-echo -e "All in One Termux Os" | lolcat;
+echo -e $b "20. Install Car-Hacking-Tools${enda}"
+echo -e "car-hacking-tools" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "21. Install inshackle-bot${enda}"
 echo -e "Get unlimited followers on Instagram for free" | lolcat;
@@ -203,8 +205,8 @@ echo -e "============================" | lolcat
 echo -e $b "43. Install BoomHash${enda}"
 echo -e "is a python script which uses several online hash crackers to find the clear Text of any hash" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "44. Install Plutus${enda}"
-echo -e "A Bitcoin wallet collider that brute forces random wallet addresses" | lolcat;
+echo -e $b "44. Install Hacking-Tools-Reposity${enda}"
+echo -e "Hacking Tools Repository" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "45. Install ContexPloit${enda}"
 echo -e "Contec Smart Home unauthorized user added" | lolcat;
@@ -947,29 +949,8 @@ echo -e "============================" | lolcat
 echo -e $b "291. Install Hack-Tools${enda}"
 echo -e "An effort to save one-off hacking scripts that I end creating for hacking competitions or pen testing" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "292. Install Hacking-Tools-Reposity${enda}"
-echo -e "Hacking Tools Repository" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "293. Install Hacking-Tools${enda}"
-echo -e "Hacking Tools resource from ExploreCrew Forum" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "294. Install fbht${enda}"
-echo -e "Facebook Hacking Tool" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "295. Install Overload-Dos${enda}"
-echo -e "Powerful denial of service program" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "296. Install Awesome-Hacking${enda}"
-echo -e "Curated list of hacking tools for hackers, pentesters and security researchers" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "297. Install Car-Hacking-Tools${enda}"
-echo -e "car-hacking-tools" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "298. Install Hacking-Tools${enda}"
-echo -e "Tools for forensics" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "299. Install ZBOT-BotNet${enda}"
-echo -e "IRC based botnet developed in C" | lolcat;
+echo -e $b "a. Install ALL SOFTS${enda}"
+echo -e "install all softs" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
@@ -1029,13 +1010,10 @@ echo -e "${y} ./install.aex"
 
 ;;
 
-#Install Mrcakil
+#Install ZBOT-BotNet
 
-6) git clone https://github.com/mrcakil/Mrcakil.git
-echo -e "${y} installer Mrcakil..."
-echo -e "${y} cd Mrcakil"
-echo -e "${y} ./tools"
-
+6) git clone https://github.com/codingplanets/ZBOT-Botnet
+echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
@@ -1050,13 +1028,10 @@ echo -e "${y} python2 d-tect.py"
 
 ;;
 
-#Install Mr.Rv1.1
+#Install Hacking-Tools
 
-8) git clone https://github.com/Mr-R225/Mr.Rv1.1
-echo -e "${y} installer Mr.Rv1.1..."
-echo -e "${y} cd Mr.Rv1.1"
-echo -e "${y} sh Mr.Rv1.1.sh"
-
+8) git clone https://github.com/girishramnani/hacking-tools
+echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
@@ -1168,11 +1143,10 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Termux-Banner
+#Install Car-Hacking-Tools
 
-20) git clone https://github.com/Bhai4You/Termux-Banner
+20) git clone https://github.com/ParrotSec/car-hacking-tools
 echo -e "${y} ALREADY INSTALLED.."
-
 
 ;;
 
@@ -1360,11 +1334,10 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Plutus
+#Install Hacking-Tools-Repository
 
-44) git clone https://github.com/Isaacdelly/Plutus
+44) git clone https://github.com/Gexos/Hacking-Tools-Repository
 echo -e "${y} ALREADY INSTALLED.."
-
 
 ;;
 
@@ -3128,59 +3101,304 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Hacking-Tools-Repository
 
-292) git clone https://github.com/Gexos/Hacking-Tools-Repository
-echo -e "${y} ALREADY INSTALLED.."
+# Install ALL
 
-;;
-
-#Install Hacking-Tools
-
-293) git clone https://github.com/ExploreCrew/Hacking-Tools
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install fbht
-
-294) git clone https://github.com/chinoogawa/fbht
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install Overload-DoS
-
-295) git clone https://github.com/codingplanets/Overload-DoS
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-
-#Install Awesome-Hacking
-
-296) git clone https://github.com/jekil/awesome-hacking
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install Car-Hacking-Tools
-
-297) git clone https://github.com/ParrotSec/car-hacking-tools
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install Hacking-Tools
-
-298) git clone https://github.com/girishramnani/hacking-tools
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install ZBOT-BotNet
-
-299) git clone https://github.com/codingplanets/ZBOT-Botnet
+a) git clone https://github.com/fu8uk1/shellphish
+git clone https://github.com/the-c0d3r/admin-finder.git
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/Rajkumrdusad/Tool-X
+git clone https://github.com/mrcakil/Mrcakil.git
+git clone https://github.com/shawarkhanethicalhacker/D-TECT
+git clone https://github.com/Mr-R225/Mr.Rv1.1
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+git clone https://github.com/pirmansx/mbf
+git clone https://github.com/sepehrdaddev/Xerxes.git
+git clone https://github.com/4L13199/LITESPAM
+git clone https://github.com/ashishb/android-malware
+git clone https://github.com/SigPloiter/SigPloit
+git clone https://github.com/1N3/Sn1per
+git clone https://github.com/04x/ICG-AutoExploiterBoT
+git clone https://github.com/OWASP/QRLJacking
+git clone https://github.com/Bhai4You/Bulltools
+git clone https://github.com/Bhai4You/Termux-Banner
+git clone https://github.com/fu8uk1/inshackle-bot
+git clone https://github.com/fu8uk1/TBomb
+git clone https://github.com/pjlantz/Hale
+git clone https://github.com/Screamfox/-Mirai-Iot-BotNet
+git clone https://github.com/epsylon/ufonet
+git clone https://github.com/fu8uk1/PyFlooder.git
+git clone https://github.com/fu8uk1/GenTiny.git
+git clone https://github.com/malwares/Botnet
+git clone https://github.com/fu8uk1/Seeker.git
+git clone https://github.com/CiaronHowell/zeus-bot
+git clone https://github.com/NullArray/Autosploit.git
+git clone https://github.com/anouarbensaad/vulnx.git
+git clone https://github.com/sqlmapproject/sqlmap
+git clone https://github.com/kuburan/Spyder
+git clone https://github.com/trustedsec/social-engineer-toolkit
+git clone https://github.com/martinvigo/email2phonenumber.git
+git clone https://github.com/king-hacking/SPY-KING.git
+git clone https://github.com/LOoLzeC/SH33LL
+git clone https://github.com/LOoLzeC/Evil-create-framework.git
+git clone https://github.com/LOoLzeC/gabutz
+git clone https://github.com/lulz3xploit/LittleBrother.git
+git clone https://github.com/Lexiie/BadMod
+git clone https://github.com/linuxskills/Boomhash
+git clone https://github.com/Isaacdelly/Plutus
+git clone https://github.com/BlackHoleSecurity/contexploit
+git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/kereh/Findip
+git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner.git
+git clone https://github.com/fu8uk1/PyLoggy.git
+git clone https://github.com/ultrasecurity/webkiller
+git clone https://github.com/SMH17/bitcoin-hacking-tools
+git clone https://github.com/iniqua/firefox-plugin-popup-logout
+git clone https://github.com/saracen/bitcoin-all-key-generator
+git clone https://github.com/philipperemy/my-first-bitcoin-miner
+git clone https://github.com/paritytech/parity-config-generator
+git clone https://github.com/kudai/Distributed-Bitcoin-Generator
+git clone https://github.com/derekchiang/Mesos-Bitcoin-Miner
+git clone https://github.com/psibot/git_psibot_hacking
+git clone https://github.com/PowerScript/KatanaFramework
+git clone https://github.com/PowerScript/STP
+git clone https://github.com/Neo-Oli/termux-ubuntu.git
+git clone https://github.com/Hax4us/Nethunter-In-Termux.git
+git clone https://github.com/fu8uk1/osx-scripts.git
+git clone https://github.com/sdrausty/termux-archlinux.git
+git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/fu8uk1/torghost.git
+git clone https://github.com/fu8uk1/Evil-Droid.git
+git clone https://github.com/gshofficialgithubindonesia/autoreport-fb
+git clone https://github.com/XG77Z10/Google-Dork
+git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/
+git clone https://github.com/UltimateHackers/Hash-Buster
+git clone https://github.com/UltimateHackers/Striker
+git clone https://github.com/b3-v3r/ASKT-AutoScriptKiddiesTool-.git
+git clone https://github.com/evait-security/weeman.git
+git clone https://github.com/googleinurl/SCANNER-INURLBR.git
+git clone https://github.com/Ubaii/script-deface-creator
+git clone https://github.com/fu8uk1/fuxsocy.git
+git clone https://github.com/UltimateHackers/ReconDog
+git clone https://github.com/4shadoww/hakkuframework
+git clone https://github.com/b3-v3r/Hunner
+git clone https://github.com/cyweb/hammer
+git clone https://github.com/dotfighter/torshammer.git
+git clone https://github.com/LionSec/katoolin.git
+git clone https://github.com/s0md3v/Silver.git
+git clone https://github.com/Mebus/cupp.git
+git clone https://github.com/zigoo0/webpwn3r
+git clone https://github.com/maldevel/IPGeolocation
+git clone https://github.com/fu8uk1/4nonimizer.git
+git clone https://github.com/fu8uk1/Facebash.git
+git clone https://github.com/s0md3v/Photon.git
+git clone https://github.com/Techzindia/admin_penal
+git clone https://github.com/reverse-shell/routersploit.git
+git clone https://github.com/JannisKirschner/Horn3t.git
+git clone https://github.com/joaomatosf/jexboss.git
+git clone https://github.com/wifiphisher/wifiphisher.git
+git clone https://github.com/The404Hacking/websploit.git
+git clone https://github.com/esc0rtd3w/wifi-hacker
+git clone https://github.com/WangYihang/SourceLeakHacker.git
+git clone https://github.com/skavngr/rapidscan.git
+git clone https://github.com/csh/stegosploit
+git clone https://github.com/s0md3v/Blazy.git
+git clone https://github.com/jaredhaight/SharpAttack.git
+git clone https://github.com/Hood3dRob1n/BinGoo.git
+git clone https://github.com/Rajkumrdusad/Tool-X.git
+git clone https://github.com/k4m4/kickthemout
+git clone https://github.com/D4Vinci/Cr3dOv3r.git
+git clone https://github.com/graniet/operative-framework.git
+git clone https://github.com/seungsoo-lee/DELTA.git
+git clone https://github.com/arthastang/IoT-Implant-Toolkit.git
+git clone https://github.com/TheSpeedX/PROXY-List.git
+git clone https://github.com/TheSpeedX/TorrGrab.git
+git clone https://github.com/Gameye98/SpazSMS
+git clone https://github.com/Anon-Exploiter/SiteBroker
+git clone https://github.com/1N3/BlackWidow.git
+git clone https://github.com/danielmiessler/SecLists.git
+git clone https://github.com/chinarulezzz/pixload.git
+git clone https://github.com/assnctr/unfx-proxy-checker.git
+git clone https://github.com/SIIL3NT/spam
+git clone https://github.com/QiubyZ/QJDID
+git clone https://github.com/QiubyZ/QFloodSms
+git clone https://github.com/Harisgitama/login-termux
+git clone https://github.com/torvalds/linux
+git clone https://github.com/rajkumardusad/IP-Tracer.git
+git clone https://github.com/JeSuisRusse/RusseLogger.git
+git clone https://github.com/Thibault-69/RAT-Hodin-v2.9
+git clone https://github.com/honglvt/TalentRAT
+git clone https://github.com/OffensivePython/Saddam
+git clone https://github.com/sqlitebrowser/sqlitebrowser
+git clone https://github.com/re4lity/PoC-Exploit
+git clone https://github.com/rootM3eX/VTools
+git clone https://github.com/Harisgitama/termux-loginv2fx
+git clone https://github.com/ismailtasdelen/Anti-DDOS
+git clone https://github.com/OffensivePython/Nscan
+git clone https://github.com/fu8uk1/saycheese
+git clone https://github.com/DarkSecDevelopers/HiddenEye
+git clone https://github.com/Amriez/AOCDEFACE
+git clone https://github.com/soracyberteam/face-hack
+git clone https://github.com/soracyberteam/bash-ransomware
+git clone https://github.com/soracyberteam/cli-browser
+git clone https://github.com/BusesCanFly/PRETty
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+git clone https://github.com/grafov/hulk
+git clone https://github.com/verluchie/termux-lazysqlmap
+git clone https://github.com/reyammer/shellnoob
+git clone https://github.com/AlisamTechnology/ATSCAN
+git clone https://github.com/commixproject/commix
+git clone https://github.com/wpscanteam/wpscan
+git clone https://github.com/atarantini/wpbf
+git clone https://github.com/Amriez/GreenReaper
+git clone https://github.com/joker25000/Devploit
+git clone https://github.com/Amriez/ipmux
+git clone https://github.com/sundowndev/PhoneInfoga
+git clone https://github.com/v1s1t0r1sh3r3/airgeddon
+git clone https://github.com/DarkSecDevelopers/Shellpy
+git clone https://github.com/Amriez/ANRspam
+git clone https://github.com/cabbagec/termux-ohmyzsh
+git clone https://github.com/ustayready/CredSniper
+git clone https://github.com/thehackingsage/Fluxion
+git clone https://github.com/wiire/pixiewps
+git clone https://github.com/derv82/wifite
+git clone https://github.com/sham00n/buster
+git clone https://github.com/UndeadSec/SocialFish
+git clone https://github.com/AeonDave/sir
+git clone https://github.com/Cvar1984/Easymap
+git clone https://github.com/Hadesy2k/sqliv
+git clone https://github.com/PentesterES/AndroidPINCrack
+git clone https://github.com/UndeadSec/Blazy
+git clone https://github.com/sysadminteam/IPscan
+git clone https://github.com/ShayanDeveloper/Instagram-Toolbox
+git clone https://github.com/Amriez/Bolang
+git clone https://github.com/rafalgolarz/termux-go
+git clone https://github.com/AnonHackerr/toolss
+git clone https://github.com/ihebski/angryFuzzer.git
+git clone https://github.com/thehackingsage/hacktronian
+git clone https://github.com/UndeadSec/EvilURL
+git clone https://github.com/lightos/credmap
+git clone https://github.com/ekultek/pybelt
+git clone https://github.com/ikkebr/PyBozoCrack
+git clone https://github.com/abaykan/CrawlBox
+git clone https://github.com/mossberg/poet
+git clone https://github.com/Amriez/MamangKey
+git clone https://github.com/st42/termux-sudo
+git clone https://github.com/sullo/nikto
+git clone https://github.com/ShayanDeveloper/Black-Dorker
+git clone https://github.com/Manisso/fsociety
+git clone https://github.com/ShayanDeveloper/WordPress-Hacker
+git clone https://github.com/Marten4n6/EvilOSX
+git clone https://github.com/wszf/androrat
+git clone https://github.com/ultrasecurity/TeleKiller
+git clone https://github.com/mvrozanti/RAT-via-Telegram
+git clone https://github.com/neoneggplant/EggShell
+git clone https://github.com/zettabithf/LiteHTTP
+git clone https://github.com/4shadoww/stabilizerbot
+git clone https://github.com/Tuhinshubhra/fbvid.git
+git clone https://github.com/4shadoww/RemBot
+git clone https://github.com/UltimateHackers/Entropy
+git clone https://github.com/UltimateHackers/Decodify
+git clone https://github.com/s0md3v/huepy.git
+git clone https://github.com/cyweb/server_domains
+git clone https://github.com/shenril/Sitadel
+git clone https://github.com/brainfucksec/kalitorify
+git clone https://github.com/1N3/BruteX
+git clone https://github.com/haijuga7/Dec-Enc-Hash
+git clone https://github.com/Veil-Framework/Veil
+git clone https://github.com/evait-security/ClickNRoot
+git clone https://github.com/LionSec/wifresti
+git clone https://github.com/the-c0d3r/port-lookup
+git clone https://github.com/theshadowbrokerss/Blue-Thunder-IP-Locator-.git
+git clone https://github.com/the-c0d3r/pynmap
+git clone https://github.com/iTzPrime/zambie.git
+git clone https://github.com/dvopsway/datasploit.git
+git clone https://github.com/Screetsec/Dracnmap
+git clone https://github.com/m4ll0k/Galileo
+git clone https://github.com/rezasp/vbscan
+git clone https://github.com/maldevel/gdog
+git clone https://github.com/verluchie/bot-exploiter
+git clone https://github.com/verluchie/instabot.py
+git clone https://github.com/xHak9x/fbi
+git clone https://github.com/4L13199/meTAInstall
+git clone https://github.com/s1l3nt78/TigerShark
+git clone https://github.com/m4ll0k/WPSeku
+git clone https://github.com/YukersCreew/BForce
+git clone https://github.com/m4ll0k/SMBrute
+git clone https://github.com/mrcakil/cok-Rat
+git clone https://github.com/theshadowbrokerss/SMS-and-Email-BOMBER.git
+git clone https://github.com/s1l3nt78/sifter
+git clone https://github.com/maurosoria/dirsearch
+git clone https://github.com/rand0m1ze/ezsploit
+git clone https://github.com/lu4p/ToRat
+git clone https://github.com/rezasp/joomscan
+git clone https://github.com/bambish/ScanQLi
+git clone https://github.com/Dionach/CMSmap
+git clone https://github.com/Screetsec/TheFatRat
+git clone https://github.com/Cyclip/Cynet
+git clone https://github.com/ciku370/ko-dork
+git clone https://github.com/UltimateHackers/Breacher
+git clone https://github.com/rand0m1ze/ezsploit
+git clone https://github.com/Ciku370/hasher
+git clone https://github.com/ZheHacK/WhatsappHack
+git clone https://github.com/Gameye98/Auxscan2.0
+git clone https://github.com/Gameye98/AstraNmap
+git clone https://github.com/Gameye98/OWScan
+git clone https://github.com/autoreaction/autoreaction.github.io
+git clone https://github.com/mr-reo001-team/Trojan_MRREO
+git clone https://github.com/fu8uk1/Cam-Hackers
+git clone https://github.com/MrKeepSmile/errorcybertool
+git clone https://github.com/verluchie/termux-lazysqlmap
+git clone https://github.com/Cvar1984/Termux-A.git
+git clone https://github.com/coding-shadow/admin_panel_finder
+git clone https://github.com/coding-shadow/facebook_cracker
+git clone https://github.com/br0keh/cc-checker
+git clone https://github.com/Ha3MrX/Gemail-Hack
+git clone https://github.com/samyoyo/flux
+git clone https://github.com/postageapp/ss5
+git clone https://github.com/mtmxlog/tweetbot-max
+git clone https://github.com/ernw/ss7MAPer
+git clone https://github.com/sweetsoftware/Artemis
+git clone https://github.com/wifiphisher/extra-phishing-pages
+git clone https://github.com/Bhai4You/Termux-Os
+git clone https://github.com/Cvar1984/pemulungBTC.git
+git clone https://github.com/hatakecnk/xNot_Found
+git clone https://github.com/droidxerror123/T.DEF-09
+git clone https://github.com/Satria3/BotTroxSelf
+git clone https://github.com/securestate/king-phisher
+git clone https://github.com/m4ll0k/Spaghetti.git
+git clone https://github.com/SheehabX/FB-Phishing
+git clone https://github.com/alexpell00/python-botnet
+git clone https://github.com/4L13199/LITETOOLS
+git clone https://github.com/nullsecuritynet/tools
+git clone https://github.com/hacktoolspack/hack-tools
+git clone https://github.com/veggiemonk/awesome-docker
+git clone https://github.com/ocornut/imgui
+git clone https://github.com/vondear/RxTool
+git clone https://github.com/LazoCoder/Windows-Hacks
+git clone https://github.com/blackode/elixir-tips
+git clone https://github.com/darkarp/chrome-password-hacking
+git clone https://github.com/audy/bioinformatics-hacks
+git clone https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer
+git clone https://github.com/Defacto2/Code-Breaker
+git clone https://github.com/sundaysec/Andspoilt
+git clone https://github.com/EchoNine/Multilang-fork-bombs
+git clone https://github.com/codingplanets/PooleBotnet
+git clone https://github.com/attilathedud/CoD4_Hacks
+git clone https://github.com/AskAlice/TTR-Tools
+git clone https://github.com/attilathedud/BW_Hacks
+git clone https://github.com/attilathedud/CoD_Hacks
+git clone https://github.com/xiaoyanguoke/CIAHackingTools.git
+git clone https://github.com/chrismeyersfsu/hack-tools
+git clone https://github.com/Gexos/Hacking-Tools-Repository
+git clone https://github.com/ExploreCrew/Hacking-Tools
+git clone https://github.com/chinoogawa/fbht
+git clone https://github.com/codingplanets/Overload-DoS
+git clone https://github.com/jekil/awesome-hacking
+git clone https://github.com/ParrotSec/car-hacking-tools
+git clone https://github.com/girishramnani/hacking-tools
+git clone https://github.com/codingplanets/ZBOT-Botnet
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
