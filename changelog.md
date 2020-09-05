@@ -1,3 +1,13 @@
+\- **Version 4.2**
+
+\* Added option "a" for install all softs 
+
+\* Deleted 8 softs : MrCakil , Mr Rv1 , Termux-Banner , Plutus , Hacking Tools , Fbht , Overload Dos , Awesome Hacking 
+
+
+
+
+
 \- **Version 4.1** 
 
 \* Deleted 32 soft : Bitcoin-Wallet , Camstream , XEIT-Cyber , CSRfpocmaker , PHP-Backconnector , Tool-Kit , Myenc , Blacktrack , Blackmail , BlackNmap , WP-Hunter , Remote-Shell , Killr , Nettacker , fucking-rat , Bruteforce Gmail , Lhst , PhishingGame , Ipddos , MultiSpam , Wascan , Jwt-Cracker , Md-Password , Watweb , Spamchat , Vulnscanner , IGP , Stagefight , Pencari , Galaulers , Typeracer , Debiantools 
