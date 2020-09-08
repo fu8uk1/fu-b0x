@@ -30,7 +30,7 @@ THIS PROGRAM
 
 ### REQUIREMENTS
 
-
+<strong>*****install python*****</strong>
 
 $ sudo apt update && sudo apt upgrade
 
@@ -38,7 +38,7 @@ $ sudo apt install python-pip
 
 $ sudo apt install python3-pip
 
-*****install php*****
+<strong>*****install php*****</strong>
 
 $ sudo apt -y install lsb-release apt-transport-https ca-certificates 
 
@@ -48,14 +48,31 @@ $ echo "deb https://packages.sury.org/php/ buster main" | sudo tee /etc/apt/sour
 
 $ sudo apt update
 
+$ sudo apt upgrade
+
 $ sudo apt -y install php7.4
+
+<strong>*****install lolcat*****</strong>
 
 
 $ pip2 install lolcat
 
+$ sudo apt install ruby
+
+$ wget https://github.com/busyloop/lolcat/archive/master.zip
+
+$ unzip master.zip
+
+$ cd lolcat-master/bin
+
+$ gem install lolcat
+
+
+<strong>*****install git*****</strong>
+
 $ sudo apt install git-all
 
-### INSTALL
+### INSTALL fu-b0x
 
 $ git clone http://github.com/fu8uk1/fu-b0x
 
