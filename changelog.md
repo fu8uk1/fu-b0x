@@ -1,4 +1,20 @@
-\- **Version 4.2**
+\- **Version 4.3** 
+
+\* 13.09.2020
+
+\* Added description for install lolcat
+
+\* Deleted 7 softs : ContexPloit , Firefox-Plugin-Pop , First Bitcoin Miner , Mesos Bitcoin , Admin Pedral , QJDID , QFloodSms
+
+\* Added 7 softs : Malware Jail , Gitminer , FoolAv , Gophish , Arpy , Mara , APKTool
+
+
+
+
+
+\- **Version 4.2** 
+
+\* 06.09.2020
 
 \* Added option "a" for install all softs 
 

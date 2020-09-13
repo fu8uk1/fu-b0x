@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 4.2
+#version 4.3
 
 #fu8uk1
 
@@ -208,8 +208,8 @@ echo -e "============================" | lolcat
 echo -e $b "44. Install Hacking-Tools-Reposity${enda}"
 echo -e "Hacking Tools Repository" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "45. Install ContexPloit${enda}"
-echo -e "Contec Smart Home unauthorized user added" | lolcat;
+echo -e $b "45. Install Malware-Jail${enda}"
+echo -e "A sandbox for semi-automatic Javascript malware analysis" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "46. Install Th3inspector${enda}"
 echo -e "best tool for Information Gathering" | lolcat;
@@ -229,14 +229,14 @@ echo -e "============================" | lolcat
 echo -e $b "51. Install Bitcoin-Hacking-Tools${enda}"
 echo -e "The source code of main tools used in Bitcoin "non-malware-based" attacks" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "52. Install Firefox-Plugin-Popup-Logout${enda}"
-echo -e "Firefox plugin to unhide the logout buttons" | lolcat;
+echo -e $b "52. Install GitMiner${enda}"
+echo -e "Tool for Advanced Content Search on Github" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "53. Install Bitcoin-All-Key-Generator${enda}"
 echo -e "directory.io without the latency" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "54. Install My-First-Bitcoin-Miner${enda}"
-echo -e "For the curious minds who want to understand how Bitcoin Blockchain works!" | lolcat;
+echo -e $b "54. FoolAV${enda}"
+echo -e "Pentest Tool for Antivirus Evasion & Running Arbitrary Payload on Target Wintel Host" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "55. Install Parity-Config-Generator${enda}"
 echo -e "Parity Config Generator" | lolcat;
@@ -244,8 +244,8 @@ echo -e "============================" | lolcat
 echo -e $b "56. Install Distributed-Bitcoin-Generator${enda}"
 echo -e "Distributed Bitcoin Generator in Scala using a client and server model" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "57. Install Mesos-Bitcoin-Miner${enda}"
-echo -e "A Mesos framework that mines Bitcoin" | lolcat;
+echo -e $b "57. Gophish${enda}"
+echo -e "An Open-Source Phishing Toolkit" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "58. Install Git_Psibot_Hacking${enda}"
 echo -e "Some new and old toys...lots of fun" | lolcat;
@@ -352,8 +352,8 @@ echo -e "============================" | lolcat
 echo -e $b "92. Install Photon${enda}"
 echo -e "Incredibly fast crawler designed for OSINT" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "93. Install Admin_Penal${enda}"
-echo -e "You can Find Your Website Admin Penal With This Python Script" | lolcat;
+echo -e $b "93. Install Arpy${enda}"
+echo -e "Mac OSX ARP Spoof (MiTM) Tool" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "94. Install RouterSploit${enda}"
 echo -e "The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices" | lolcat;
@@ -436,11 +436,11 @@ echo -e "============================" | lolcat
 echo -e $b "120. Install Spam${enda}"
 echo -e "SPAM SMS Unlimited" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "121. Install QJDID${enda}"
-echo -e "SPAM SMS" | lolcat;
+echo -e $b "121. Install MARA${enda}"
+echo -e "A Mobile Application Reverse Engineering and Analysis Framework" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "122. Install QFloodSms${enda}"
-echo -e "SPAM SMS" | lolcat;
+echo -e $b "122. Install APKTool${enda}"
+echo -e "A Tool for Reverse Engineering Android APK Files" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "123. Install Login-Termux${enda}"
 echo -e "Login Termux" | lolcat;
@@ -1341,9 +1341,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install ContexPloit
+#Install Malwre-Jail
 
-45) git clone https://github.com/BlackHoleSecurity/contexploit
+45) git clone https://github.com/HynekPetrak/malware-jail.git
 echo -e "${y} ALREADY INSTALLED.."
 
 
@@ -1392,9 +1392,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#install Firefox-Plugin-Popup-Logout
+#install GitMiner
 
-52) git clone https://github.com/iniqua/firefox-plugin-popup-logout
+52) git clone http://github.com/UnkL4b/GitMiner
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1406,9 +1406,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install My-First-Bitcoin-Miner
+#Install FoolAV
 
-54) git clone https://github.com/philipperemy/my-first-bitcoin-miner
+54) git clone https://github.com/hvqzao/foolav/releases/download/v1.0/foolav.zip
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1427,9 +1427,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Mesos-Bitcoin-Miner
+#Install Gophish
 
-57) git clone https://github.com/derekchiang/Mesos-Bitcoin-Miner
+57) git clone https://github.com/gophish/gophish/releases
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1689,9 +1689,9 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install Admin_Penal
+#Install Arpy
 
-93) git clone https://github.com/Techzindia/admin_penal
+93) git clone https://github.com/dugsong/libdnet.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -1900,16 +1900,16 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install QJDID
+#Install MARA
 
-121) git clone https://github.com/QiubyZ/QJDID
+121) git clone --recursive https://github.com/xtiankisutsa/MARA_Framework
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install QFloodSms
+#Install APKTool
 
-122) git clone https://github.com/QiubyZ/QFloodSms
+122) git clone git://github.com/iBotPeaches/Apktool.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
