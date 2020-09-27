@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 4.3
+#version 4.4
 
 #fu8uk1
 
@@ -31,8 +31,8 @@ figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : BASH $green " |lolcat
-echo -b "VERSION   : 4.3 " | lolcat
-echo -b "TOTALS    : 292 TOOLS " | lolcat
+echo -b "VERSION   : 4.4 " | lolcat
+echo -b "TOTALS    : 287 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
 echo -b "CONTRIBUTOR : TIGI $green " |lolcat
@@ -886,67 +886,52 @@ echo -e "============================" | lolcat
 echo -e $b "270. Install Pyrhon-Botnet${enda}"
 echo -e "Self governing bot net" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "271. Install LITETOOLS${enda}"
-echo -e "Tools Installer From Indonesia security Lite" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "272. Install Tools${enda}"
+echo -e $b "271. Install Tools${enda}"
 echo -e "Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts." | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "273. Install Hack-Tool${enda}"
+echo -e $b "272. Install Hack-Tool${enda}"
 echo -e "hack-tools-python-perl-javascript-2017-2020" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "274. Install Awesome-Docker${enda}"
+echo -e $b "273. Install Awesome-Docker${enda}"
 echo -e "A curated list of Docker resources and projects" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "275. Install imgui${enda}"
+echo -e $b "274. Install imgui${enda}"
 echo -e "Bloat-free Graphical User interface for C++ with minimal dependencies" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "276. Install RxTool${enda}"
+echo -e $b "275. Install RxTool${enda}"
 echo -e "A collection of tools that Android developers have to collect" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "277. Install Windows-Hacks${enda}"
+echo -e $b "276. Install Windows-Hacks${enda}"
 echo -e "Creative and unusual things that can be done with the Windows API" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "278. Install Elixir-Tips${enda}"
+echo -e $b "277. Install Elixir-Tips${enda}"
 echo -e "The Killer Elixir Tips and Tricks from the experience" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "279. Install Chrome-Password-Hacking${enda}"
+echo -e $b "278. Install Chrome-Password-Hacking${enda}"
 echo -e "Hacking Chrome Saved Passwords" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "280. Install BioInformatics-Hacks${enda}"
+echo -e $b "279. Install BioInformatics-Hacks${enda}"
 echo -e "Collection of Python scripts I use for random bioinformatics-related tasks." | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "281. Install RaspberryPi-Packet-Sniffer${enda}"
+echo -e $b "280. Install RaspberryPi-Packet-Sniffer${enda}"
 echo -e "A simple HTTP and HTTPS sniffing tool created using Raspberry Pi" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "282. Install Code-Breaker${enda}"
+echo -e $b "281. Install Code-Breaker${enda}"
 echo -e "Various MS-DOS tools, trainers, cheats" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "283. Install Andsploit${enda}"
+echo -e $b "282. Install Andsploit${enda}"
 echo -e "Run interactive android exploits in linux" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "284. Install Multilang-Fork-Bombs${enda}"
+echo -e $b "283. Install Multilang-Fork-Bombs${enda}"
 echo -e "Fork Bombs" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "285. Install PooleBotnet${enda}"
+echo -e $b "284. Install PooleBotnet${enda}"
 echo -e "CNC botnet developed via C" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "286. Install CoD4_Hacks${enda}"
-echo -e "A collection of hacks for CoD4 v1.7" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "287. Install TTR-Tools${enda}"
-echo -e "Toontown Rewritten cheats / "hacks" scripted with AutoHotKey" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "288. Install BW_Hacks${enda}"
-echo -e "A collection of older Starcraft: Brood War hacks" | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "289. Install CoD_Hacks${enda}"
-echo -e "A collection of hacks for Call of Duty v1.5." | lolcat;
-echo -e "============================" | lolcat
-echo -e $b "290. Install CIA-Hacking-Tools${enda}"
+echo -e $b "285. Install CIA-Hacking-Tools${enda}"
 echo -e "WikiLeaks Vault 7 CIA Hacking Tools" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "291. Install Hack-Tools${enda}"
+echo -e $b "286. Install Hack-Tools${enda}"
 echo -e "An effort to save one-off hacking scripts that I end creating for hacking competitions or pen testing" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "a. Install ALL SOFTS${enda}"
@@ -2954,149 +2939,114 @@ echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
-#Install LITETOOLS
-
-271) git clone https://github.com/4L13199/LITETOOLS
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
 #Install Tools
 
-272) git clone https://github.com/nullsecuritynet/tools
+271) git clone https://github.com/nullsecuritynet/tools
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Hack-Tools
 
-273) git clone https://github.com/hacktoolspack/hack-tools
+272) git clone https://github.com/hacktoolspack/hack-tools
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Awesome-Docker
 
-274) git clone https://github.com/veggiemonk/awesome-docker
+273) git clone https://github.com/veggiemonk/awesome-docker
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Imgui
 
-275) git clone https://github.com/ocornut/imgui
+274) git clone https://github.com/ocornut/imgui
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install RxTool
 
-276) git clone https://github.com/vondear/RxTool
+275) git clone https://github.com/vondear/RxTool
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Windows-Hacks
 
-277) git clone https://github.com/LazoCoder/Windows-Hacks
+276) git clone https://github.com/LazoCoder/Windows-Hacks
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Elixir-Tips
 
-278) git clone https://github.com/blackode/elixir-tips
+277) git clone https://github.com/blackode/elixir-tips
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Chrome-Password-Hacking
 
-279) git clone https://github.com/darkarp/chrome-password-hacking
+278) git clone https://github.com/darkarp/chrome-password-hacking
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Bioinformatics-Hacks
 
-280) git clone https://github.com/audy/bioinformatics-hacks
+279) git clone https://github.com/audy/bioinformatics-hacks
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install RaspberryPi-Packet-Sniffer
 
-281) git clone https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer
+280) git clone https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Code-Breaker
 
-282) git clone https://github.com/Defacto2/Code-Breaker
+281) git clone https://github.com/Defacto2/Code-Breaker
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install AndSploit
 
-283) git clone https://github.com/sundaysec/Andspoilt
+282) git clone https://github.com/sundaysec/Andspoilt
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Multilang-Fork-Bombs
 
-284) git clone https://github.com/EchoNine/Multilang-fork-bombs
+283) git clone https://github.com/EchoNine/Multilang-fork-bombs
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install PooleBotNet
 
-285) git clone https://github.com/codingplanets/PooleBotnet
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install CoD4_Hacks
-
-286) git clone https://github.com/attilathedud/CoD4_Hacks
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install TTR-Tools
-
-287) git clone https://github.com/AskAlice/TTR-Tools
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install BW_Hacks
-
-288) git clone https://github.com/attilathedud/BW_Hacks
-echo -e "${y} ALREADY INSTALLED.."
-
-;;
-
-#Install CoD_Hacks
-
-289) git clone https://github.com/attilathedud/CoD_Hacks
+284) git clone https://github.com/codingplanets/PooleBotnet
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install CIA-Hacking-Tools
 
-290) git clone https://github.com/xiaoyanguoke/CIAHackingTools.git
+285) git clone https://github.com/xiaoyanguoke/CIAHackingTools.git
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
 
 #Install Hack-Tool
 
-291) git clone https://github.com/chrismeyersfsu/hack-tools
+286) git clone https://github.com/chrismeyersfsu/hack-tools
 echo -e "${y} ALREADY INSTALLED.."
 
 ;;
@@ -3370,7 +3320,6 @@ git clone https://github.com/securestate/king-phisher
 git clone https://github.com/m4ll0k/Spaghetti.git
 git clone https://github.com/SheehabX/FB-Phishing
 git clone https://github.com/alexpell00/python-botnet
-git clone https://github.com/4L13199/LITETOOLS
 git clone https://github.com/nullsecuritynet/tools
 git clone https://github.com/hacktoolspack/hack-tools
 git clone https://github.com/veggiemonk/awesome-docker
@@ -3385,10 +3334,6 @@ git clone https://github.com/Defacto2/Code-Breaker
 git clone https://github.com/sundaysec/Andspoilt
 git clone https://github.com/EchoNine/Multilang-fork-bombs
 git clone https://github.com/codingplanets/PooleBotnet
-git clone https://github.com/attilathedud/CoD4_Hacks
-git clone https://github.com/AskAlice/TTR-Tools
-git clone https://github.com/attilathedud/BW_Hacks
-git clone https://github.com/attilathedud/CoD_Hacks
 git clone https://github.com/xiaoyanguoke/CIAHackingTools.git
 git clone https://github.com/chrismeyersfsu/hack-tools
 git clone https://github.com/Gexos/Hacking-Tools-Repository

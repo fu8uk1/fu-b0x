@@ -1,3 +1,14 @@
+\- **Version 4.4** 
+
+\* 27.09.2020
+
+\* Deleted 4 softs : CoD hacks , Bw hacks , TTr Tools , CoD4 Hacks , Litetools
+
+
+
+
+
+
 \- **Version 4.3** 
 
 \* 13.09.2020
