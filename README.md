@@ -52,7 +52,7 @@ $ sudo apt upgrade
 
 $ sudo apt -y install php7.4
 
-<strong>*****ruby*****</strong>
+<strong>*****install ruby*****</strong>
 
 
 $ sudo apt install ruby
