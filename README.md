@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu1.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/fu-b0x.png)
 
 
 ```
