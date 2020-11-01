@@ -1,4 +1,4 @@
-![Screenshot](https://l-oasis-du-web.eu/up/fub0x.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu1.png)
 
 
 ```
@@ -12,7 +12,7 @@ THIS PROGRAM
 
 ```
 
-![Screenshot](https://l-oasis-du-web.eu/up/fu8uk1.png)
+![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/fu8uk1.png)
 
 <h1 align="center"> |Changing the Description of this tool  |<br>
  |Won't made you the coder ^_^ !!!      |<br>
@@ -52,12 +52,13 @@ $ sudo apt upgrade
 
 $ sudo apt -y install php7.4
 
-<strong>*****install lolcat*****</strong>
+<strong>*****ruby*****</strong>
 
-
-$ pip2 install lolcat
 
 $ sudo apt install ruby
+
+
+<strong>*****install lolcat*****</strong>
 
 $ wget https://github.com/busyloop/lolcat/archive/master.zip
 
@@ -71,6 +72,7 @@ $ gem install lolcat
 <strong>*****install git*****</strong>
 
 $ sudo apt install git-all
+
 
 ### INSTALL fu-b0x
 
