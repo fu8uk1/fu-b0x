@@ -1,3 +1,11 @@
+\- **Version 5**
+\* 09/06/2021
+\*remove all software except 20
+\*in addition to downloading the software, fu-b0x also installs them
+\*fixed 4 bugs
+
+
+
 \- **Version 4.4** 
 
 \* 27.09.2020
