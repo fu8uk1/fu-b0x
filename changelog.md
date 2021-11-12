@@ -1,3 +1,11 @@
+
+\- **Version 6**
+\* 12/11/2021
+\*Added mariana-trench soft
+\*fixed 2 bugs
+
+
+
 \- **Version 5**
 \* 09/06/2021
 \*remove all software except 20

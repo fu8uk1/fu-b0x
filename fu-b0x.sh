@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 5
+#version 6
 
 #fu8uk1
 
@@ -135,6 +135,9 @@ echo -e "Accurately Locate Smartphones using Social Engineering" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "20. Install Facebash${enda}"
 echo -e "Tool To Brute Force Facebook Using TOR" | lolcat;
+echo -e "============================" | lolcat
+echo -e $b "21. Install mariana-trench${enda}"
+echo -e "Our security focused static analysis tool for Android and Java applications." | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "a. Download all softs${enda}"
 echo -e "Download all softs in one time" | lolcat;
@@ -368,6 +371,13 @@ echo -e "${y} chmod +x install.sh"
 echo -e "${y} sudo ./install.sh"
 echo -e "${y} service tor start"
 echo -e "${y} sudo ./facebash.sh"
+
+;;
+
+#Install mariana-trench
+https://github.com/fu8uk1/mariana-trench
+echo -e "${y} installing mariana-trench..."
+echo -e "${y} cd mariana-trench"
 
 
 ;;
