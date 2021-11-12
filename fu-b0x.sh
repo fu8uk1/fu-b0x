@@ -31,8 +31,8 @@ figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : BASH $green " |lolcat
-echo -b "VERSION   : 5 " | lolcat
-echo -b "TOTALS    : 20 TOOLS " | lolcat
+echo -b "VERSION   : 6 " | lolcat
+echo -b "TOTALS    : 21 TOOLS " | lolcat
 echo -b "AUTHOR    : FU8UK1 $green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
 echo -b "CONTRIBUTOR : TIGI $green " |lolcat
