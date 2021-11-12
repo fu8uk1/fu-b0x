@@ -375,7 +375,8 @@ echo -e "${y} sudo ./facebash.sh"
 ;;
 
 #Install mariana-trench
-https://github.com/fu8uk1/mariana-trench
+
+21) https://github.com/fu8uk1/mariana-trench
 echo -e "${y} installing mariana-trench..."
 echo -e "${y} cd mariana-trench"
 
@@ -405,6 +406,7 @@ git clone https://github.com/fu8uk1/GenTiny.git
 git clone https://github.com/fu8uk1/Evil-Droid.git
 git clone https://github.com/fu8uk1/Seeker.git
 git clone https://github.com/fu8uk1/Facebash
+https://github.com/fu8uk1/mariana-trench
 
 echo -e "${y} ALREADY INSTALLED.."
 
