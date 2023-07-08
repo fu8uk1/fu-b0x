@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 6
+#version 7
 
 #fu8uk1
 
@@ -8,7 +8,7 @@
 #|#Respect Coderz ^_^                   | 
 
 
-#09/06/2021
+#08/07/2023
 
 clear
 # Variables
@@ -31,16 +31,19 @@ figlet FU-B0X  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : BASH $green " |lolcat
-echo -b "VERSION   : 6 " | lolcat
+echo -b "VERSION   : 7 " | lolcat
 echo -b "TOTALS    : 21 TOOLS " | lolcat
-echo -b "AUTHOR    : FU8UK1 $green " |lolcat
+echo -b "AUTHOR    : FU8UK1 AKA WOLFARCH$green " |lolcat
 echo -b "ASSOCIATE : FCA $green " |lolcat
 echo -b "CONTRIBUTOR : TIGI $green " |lolcat
-echo -b "CONTRIBUTOR : XICO $green " |lolcat
-echo -b "DON'T USE THIS TOOL FOR ILLEGAL ACTIVITIES " | lolcat
+echo -b "DON'T USE THIS TOOL FOR ILLEGAL ACTIVITIES" | lolcat
+echo -b "NE PAS UTILISER CE SCRIPT POUR DES ACTIVITER ILLEGALE" | lolcat
 echo -b "Changing the Description of this tool " |lolcat
 echo -b "Won't made you the coder ^_^ !!!  " |lolcat
 echo -b "Respect Coderz ^_^ " |lolcat
+echo -b "Changer la description de ce script" |lolcat
+echo -b "Ne fera pas de toi son codeur ^_^ !!!  " |lolcat
+echo -b "Respecte les Codeurz ^_^ " |lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -53,6 +56,7 @@ ctrl_c() {
 clear
 echo -b $green"[#]> INSTALLATION " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
+echo -b $green"[#]> Merci D'Utiliser mon script" |lolcat
 sleep 1
 echo -b $green"[#]> fu-b0x On Your System" |lolcat
 
@@ -72,6 +76,7 @@ echo ""
 
 echo -e "######################################" | lolcat
 echo -e "#LIST OF TOOLS#" | lolcat
+echo -e "#LISTE DES LOGICIELS#" | lolcat
 echo -e "######################################" | lolcat
 
 echo ""
@@ -82,14 +87,14 @@ echo -e "============================" | lolcat
 echo -e $b "2. Install TrEsNaK${endcla}"
 echo -e "9 softs in 1" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "3. Install FBI${enda}"
-echo -e "Facebook user Information" | lolcat;
+echo -e $b "3. Install Balgo Crypter${enda}"
+echo -e " Balgo Crypter est un utilitaire de génération de charge utile de shell inverse codée Xor avec héxadécimal." | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "4. Install Lazymux${enda}"
-echo -e "termux tool installer" | lolcat;
+echo -e $b "4. Install SocialPhish${enda}"
+echo -e "The most complete Phishing Tool, with 32 templates +1 customizable" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "5. Install Tools-X${enda}"
-echo -e "Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X …" | lolcat;
+echo -e $b "5. Install Ghost Eye ${enda}"
+echo -e "Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "6. Install maskphish${enda}"
 echo -e "MaskPhish is a simple script to hide phishing URL under normal looking URL (google.com or facebook.com)." | lolcat;
@@ -97,8 +102,8 @@ echo -e "============================" | lolcat
 echo -e $b "7. Install underhanded${enda}"
 echo -e "Tool to check if an app is installed on the target device through a link" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "8. Install Hacking-Tools${enda}"
-echo -e "Tools for forensics" | lolcat;
+echo -e $b "8. Install Anon-SMS${enda}"
+echo -e "A Tool To Send Messages Anonymously" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "9. Install saycheese${enda}"
 echo -e "Grab target's webcam shots by link" | lolcat;
@@ -109,14 +114,14 @@ echo -e "============================" | lolcat
 echo -e $b "11. Install Sn1per${enda}"
 echo -e "Automated pentest framework for offensive security experts" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "12. Install txtool${enda}"
+echo -e $b "12. Install SearchCAM${enda}"
 echo -e "txtool is made to help you for easly pentesting in termux" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "13. Install inshackle-bot${enda}"
 echo -e "Get unlimited followers on Instagram for free" | lolcat;
 echo -e "============================" | lolcat
-echo -e $b "14. Install TBomb${enda}"
-echo -e "An open-source SMS/call bomber for Linux And Termux" | lolcat;
+echo -e $b "14. Install Storm-Breaker${enda}"
+echo -e "Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok" | lolcat;
 echo -e "============================" | lolcat
 echo -e $b "15. Install Ufonet${enda}"
 echo -e "Denial of Service Toolkit" | lolcat;
@@ -152,8 +157,9 @@ read -p "   ╰─root@./fu-b0x=" pil;
 case $pil in
 1) git clone https://github.com/fu8uk1/shellphish
 echo -e "${y} Installing shellphish..."
-echo -e "${y} cd shellphish"
-echo -e "${y} bash shellphish.sh"
+cd shellphish
+bash shellphish.sh
+cd
 
 echo
 
@@ -163,40 +169,49 @@ echo
 
 2) git clone https://github.com/fu8uk1/TrEsNaK
 echo -e "${y} Installing TrEsNaK..."
-echo -e "${y} cd TrEsNaK"
-echo -e "${y} sudo bash ./TrEsNaK.sh"
+cd TrEsNaK
+chmod +x TrEsNaK.sh
+sudo bash ./TrEsNaK.sh
+cd
+
 
 echo
 
 ;;
 
-#Install FBI
+#Install Balgo Crypter
+3) git clone https://github.com/fu8uk1/Balgo-Crypter.git
+echo -e "${y} Installing Balgo-Crypter..."
+cd Balgo-Crypter
+python3 balgo_crypter.py
+cd
 
-3) git clone https://github.com/fu8uk1/fbi
-echo -e "${y} Installing FBI..."
-echo -e "${y} cd fbi"
-echo -e "${y} pip2 install -r requirements.txt"
-echo -e "${y} python fbi.py"
-
-
-;;
-
-#Install Lazymux
-
-4) git clone https://github.com/Gameye98/Lazymux
-echo -e "${y} Installing Lazymux..."
-echo -e "${y} cd Lazymux"
-echo -e "${y} python2 lazymux.py"
 
 
 ;;
 
-#Install Tools-X
+#Install SocialPhish
 
-5) git clone https://github.com/Rajkumrdusad/Tool-X
-echo -e "${y} Installing Tool-X..."
-echo -e "${y} cd Tool-X"
-echo -e "${y} ./install.aex"
+4) git clone https://github.com/xHak9x/SocialPhish.git
+echo -e "${y} Installing SocialPhish..."
+cd SocialPhish
+chmod +x socialphish.sh
+./socialphish.sh
+cd
+
+
+;;
+
+#Install Ghost Eye
+
+5) git clone https://github.com/BullsEye0/ghost_eye.git
+echo -e "${y} Installing Ghost Eye..."
+sudo apt install etherape nmap dnsutils gnome-terminal httpie mtr
+sudo apt install libgnomeui-0: amd64
+cd ghost_eye
+pip3 install -r requirements.txt
+python3 ghost_eye.py
+cd
 
 
 ;;
@@ -205,8 +220,9 @@ echo -e "${y} ./install.aex"
 
 6) git clone git clone https://github.com/fu8uk1/maskphish
 echo -e "${y} Installing MASKPHISH..."
-echo -e "${y} cd maskphish"
-echo -e "${y} ./maskphish"
+cd maskphish
+./maskphish
+cd
 
 
 ;;
@@ -215,17 +231,19 @@ echo -e "${y} ./maskphish"
 
 7) git clone git clone https://github.com/fu8uk1/underhanded
 echo -e "${y} Installing UNDERHANDED..."
-echo -e "${y} cd underhanded"
-echo -e "${y} bash underhanded.sh"
+cd underhanded
+bash underhanded.sh
+cd
 
 
 ;;
 
-#Install Hacking-Tools
-
-8) git clone https://github.com/girishramnani/hacking-tools
-echo -e "${y} Installing Hacking-Tools..."
-echo -e "${y} cd Hacking-Tools
+#Install Anon-SMS
+8) git clone https://github.com/HACK3RY2J/Anon-SMS.git
+echo -e "${y} Installing Anon-SMS..."
+cd Anon-SMS
+sudo bash Run.sh
+cd
 
 
 ;;
@@ -234,20 +252,22 @@ echo -e "${y} cd Hacking-Tools
 
 9) git clone git clone https://github.com/fu8uk1/saycheese
 echo -e "${y} Installing SAYCHEESE..."
-echo -e "${y} cd saycheese
-echo -e "${y} bash saycheese"
+cd saycheese
+bash saycheese
+cd
 
 
 ;;
 
 #Install Cam-Hackers
 
-10) git clone https://github.com/fu8uk1/Cam-Hackers
+10) git clone https://github.com/AngelSecurityTeam/Cam-Hackers
 echo -e "${y} installing Cam-Hackers..."
-echo -e "${y} sudo apt install git"
-echo -e "${y} pip3 install requests"
-echo -e "${y} cd Cam-Hackers"
-echo -e "${y} python3 cam-hackers.py"
+sudo apt install git
+cd Cam-Hackers
+pip install -r requirements.txt
+python3 cam-hackers.py
+cd
 
 
 ;;
@@ -258,19 +278,21 @@ echo -e "${y} python3 cam-hackers.py"
 
 11) git clone https://github.com/1N3/Sn1per
 echo -e "${y} installing SN1PER..."
-echo -e "${y} cd Sn1per"
-echo -e "${y} bash install.sh"
+cd Sn1per
+sudo bash install.sh
+cd
 
 ;;
 
 
-#Install txtool
+#Install SearchCAM
 
-12) git clone https://github.com/kuburan/txtool
-echo -e "${y} installing TXTOOL..."
-echo -e "${y} cd txtool"
-echo -e "${y} sudo ./install.py"
-echo -e "${y} txtool"
+12)git clone https://github.com/AngelSecurityTeam/SearchCAM
+echo -e "${y} installing SearchCAM..."
+cd SearchCam
+pip install -r requirements.txt
+python3 searchCAM.py
+cd
 
 
 ;;
@@ -280,20 +302,22 @@ echo -e "${y} txtool"
 
 13) git clone https://github.com/fu8uk1/inshackle-bot
 echo -e "${y} installing inshackle-bot..."
-echo -e "${y} cd inshackle-bot"
-echo -e "${y} bash inshackle.sh"
+cd inshackle-bot
+bash inshackle.sh
+cd
 
 
 ;;
 
-#Install TBomb
+#Install Storm-Breaker
 
-14) git clone https://github.com/fu8uk1/TBomb
-echo -e "${y} installing TBomb..."
-echo -e "${y} sudo apt install git"
-echo -e "${y} cd TBomb"
-echo -e "${y} chmod +x TBomb.sh"
-echo -e "${y} sudo bash TBomb.sh"
+14) git clone https://github.com/ultrasecurity/Storm-Breaker
+echo -e "${y} installing Storm-Breaker..."
+cd Storm-Breaker
+sudo bash linux-installer.sh
+python3 -m pip install -r requirments.txt
+sudo python3 Storm-Breaker.py
+cd
 
 
 ;;
@@ -303,18 +327,18 @@ echo -e "${y} sudo bash TBomb.sh"
 
 15) git clone https://github.com/epsylon/ufonet
 echo -e "${y} installing Ufonet..."
-echo -e "${y} python3 setup.py install"
-echo -e "${y} pip3 install GeoIP"
-echo -e "${y} pip3 install python-geoip"
-echo -e "${y} pip3 install pygeoip"
-echo -e "${y} pip3 install requests"
-echo -e "${y} pip3 install pycrypto"
-echo -e "${y} pip3 install pycurl"
-echo -e "${y} pip3 install whois"
-echo -e "${y} pip3 install scapy-python3"
-echo -e "${y} cd ufonet"
-echo -e "${y} bash ./ufonet"
-
+python3 setup.py install
+pip3 install GeoIP
+pip3 install python-geoip
+pip3 install pygeoip
+pip3 install requests
+pip3 install pycrypto
+pip3 install pycurl
+pip3 install whois
+pip3 install scapy-python3
+cd ufonet
+bash ./ufonet
+cd
 
 ;;
 
@@ -322,8 +346,9 @@ echo -e "${y} bash ./ufonet"
 
 16) git clone https://github.com/fu8uk1/PyFlooder.git
 echo -e "${y} installing PYFLOODER..."
-echo -e "${y} cd PyFlooder"
-echo -e "${y} python3 pyflooder.py"
+cd PyFlooder
+python3 pyflooder.py
+cd
 
 
 ;;
@@ -332,9 +357,10 @@ echo -e "${y} python3 pyflooder.py"
 
 17) git clone https://github.com/fu8uk1/GenTiny.git
 echo -e "${y} installing GENTINY..."
-echo -e "${y} cd GenTiny"
-echo -e "${y} pip3 install requests"
-echo -e "${y} python3 gentiny2.py"
+cd GenTiny
+pip3 install requests
+python3 gentiny2.py
+cd
 
 
 ;;
@@ -343,9 +369,10 @@ echo -e "${y} python3 gentiny2.py"
 
 18) git clone https://github.com/fu8uk1/Evil-Droid.git
 echo -e "${y} installing Evil-Droid..."
-echo -e "${y} cd Evil-Droid"
-echo -e "${y} chmod +x evil-droid"
-echo -e "${y} ./evil-droid"
+cd Evil-Droid
+chmod +x evil-droid
+./evil-droid
+cd
 
 
 ;;
@@ -354,9 +381,10 @@ echo -e "${y} ./evil-droid"
 
 19) git clone https://github.com/fu8uk1/Seeker.git
 echo -e "${y} installing Seeker..."
-echo -e "${y} cd seeker"
-echo -e "${y} chmod 777 install.sh"
-echo -e "${y} ./install.sh"
+cd seeker
+chmod 777 install.sh
+./install.sh
+cd
 
 
 ;;
@@ -365,12 +393,13 @@ echo -e "${y} ./install.sh"
 
 20) git clone https://github.com/fu8uk1/Facebash
 echo -e "${y} installing Facebash..."
-echo -e "${y} cd facebash"
-echo -e "${y} chmod +x facebash.sh"
-echo -e "${y} chmod +x install.sh"
-echo -e "${y} sudo ./install.sh"
-echo -e "${y} service tor start"
-echo -e "${y} sudo ./facebash.sh"
+cd facebash
+chmod +x facebash.sh
+chmod +x install.sh
+sudo ./install.sh
+service tor start
+sudo ./facebash.sh
+cd
 
 ;;
 
@@ -378,7 +407,8 @@ echo -e "${y} sudo ./facebash.sh"
 
 21) https://github.com/fu8uk1/mariana-trench
 echo -e "${y} installing mariana-trench..."
-echo -e "${y} cd mariana-trench"
+cd mariana-trench
+cd
 
 
 ;;
@@ -388,18 +418,45 @@ echo -e "${y} cd mariana-trench"
 
 a) git clone https://github.com/fu8uk1/shellphish
 git clone https://github.com/fu8uk1/TrEsNaK
-git clone https://github.com/fu8uk1/fbi.git
-git clone https://github.com/Gameye98/Lazymux
-git clone https://github.com/Rajkumrdusad/Tool-X
+git clone https://github.com/fu8uk1/Balgo-Crypter.git
+git clone https://github.com/xHak9x/SocialPhish.git
+
+git clone https://github.com/BullsEye0/ghost_eye.git
+sudo apt install etherape nmap dnsutils gnome-terminal httpie mtr
+sudo apt install libgnomeui-0: amd64
+cd ghost_eye
+pip3 install -r requirements.txt
+cd
+
 git clone https://github.com/fu8uk1/maskphish
 git clone https://github.com/fu8uk1/underhanded
-git clone https://github.com/girishramnani/hacking-tools
+git clone https://github.com/HACK3RY2J/Anon-SMS.git
 git clone https://github.com/fu8uk1/saycheese
-git clone https://github.com/fu8uk1/Cam-Hackers
+
+git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+sudo apt install git
+cd Cam-Hackers
+pip install -r requirements.txt
+cd
+
 git clone https://github.com/1N3/Sn1per
-git clone https://github.com/kuburan/txtool
+cd Sn1per
+sudo bash install.sh
+cd
+
+git clone https://github.com/AngelSecurityTeam/SearchCAM
+cd SearchCam
+pip install -r requirements.txt
+cd
+
 git clone https://github.com/fu8uk1/inshackle-bot
-git clone https://github.com/fu8uk1/TBomb
+
+git clone https://github.com/ultrasecurity/Storm-Breaker
+ cd Storm-Breaker
+sudo bash linux-installer.sh
+python3 -m pip install -r requirments.txt
+cd
+
 git clone https://github.com/epsylon/ufonet
 git clone https://github.com/fu8uk1/PyFlooder.git
 git clone https://github.com/fu8uk1/GenTiny.git
@@ -423,7 +480,7 @@ figlet FU-B0X | lolcat
 exit
 ;;
 
-*) echo "Sorry, Your choices it's not already [T4T]"
+*) echo "Sorry, Your choices its not already [T4T]"
 esac
 done
 done

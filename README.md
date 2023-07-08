@@ -25,32 +25,10 @@ THIS PROGRAM
 ```
 21 TOOLS IN 1
 ```
-LAST UPDATE 12/11/2021
+LAST UPDATE 08/07/2023
 
 
 ### REQUIREMENTS
-
-<strong>*****install python*****</strong>
-
-$ sudo apt update && sudo apt upgrade
-
-$ sudo apt install python-pip
-
-$ sudo apt install python3-pip
-
-<strong>*****install php*****</strong>
-
-$ sudo apt -y install lsb-release apt-transport-https ca-certificates 
-
-$ sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
-
-$ echo "deb https://packages.sury.org/php/ buster main" | sudo tee /etc/apt/sources.list.d/php.list
-
-$ sudo apt update
-
-$ sudo apt upgrade
-
-$ sudo apt -y install php7.4
 
 <strong>*****install ruby*****</strong>
 
@@ -88,9 +66,5 @@ $ bash ./fu-b0x.sh
 ![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu1.png)
 
 ![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu2.png)
-
-![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu3.png)
-
-![Screenshot](https://github.com/fu8uk1/fu-b0x/blob/master/pictures/captu4.png)
 
 

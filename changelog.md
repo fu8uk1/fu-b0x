@@ -1,4 +1,13 @@
 
+\- **Version 7**
+\* 08/07/2023
+\*Ajout et suppressions de plusieurs logiciels
+\*fixed 19 bugs
+\*Rajout des trad en français sur le soft
+
+
+
+
 \- **Version 6**
 \* 12/11/2021
 \*Added mariana-trench soft
